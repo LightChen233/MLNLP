@@ -1,0 +1,83 @@
+{
+  "session_name": "Session 6: 大模型技术与应用 <span style=\"white-space: pre;word-break: break-word;\"> (9月24日 15:50-17:50) </span>",
+  "session_chair": "论坛主席：刘正皓 (东北大学)  &nbsp;&nbsp;&nbsp;&nbsp; 杨麟儿 (北京语言大学)",
+  "session_desc": "随着大型语言模型的兴起，其展现了强大的涌现能力、跨领域学习能力、群体智能以及决策规划能力。本论坛汇聚了四位优秀的专家学者分别就大模型前沿问题进行汇报交流。包含了：在地球科学领域进行大语言模型训练，并探讨预训练的收敛性、数据清洗、特定数据的准备以及评测集的构建；以自然语言用户界面控制为应用场景，介绍了相关数据集和技术范式，讨论语言模型在规划、决策、控制和交互等领域所具有的潜力；以多方对话为背景探讨近年来用于多方对话理解和生成的预训练语言模型以及基于图结构引导的微调方法；以医疗领域的华佗GPT为例，详细阐述了专业领域大型模型所面临的挑战，并提出了未来的发展方向。",
+  "session_time": [
+    "15:50",
+    "17:50"
+  ],
+  "apple": "data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0ABEGIN:VTIMEZONE%0ATZID:Asia/Shanghai%0AX-LIC-LOCATION:Asia/Shanghai%0ABEGIN:STANDARD%0ATZOFFSETFROM:+0800%0ATZOFFSETTO:+0800%0ATZNAME:CST%0ADTSTART:19700101T000000%0AEND:STANDARD%0AEND:VTIMEZONE%0ABEGIN:VEVENT%0AURL:%0ADTSTART;TZID=Asia/Shanghai:20230924T155000%0ADTEND;TZID=Asia/Shanghai:20230924T175000%0ATZID:Asia/Shanghai%0ASUMMARY:%5BMLNLP%202023%5D%20Session%206%20大模型技术与应用%0ADESCRIPTION:注册链接：https://event.baai.ac.cn/event/705 论坛简介：随着大型语言模型的兴起，其展现了强大的涌现能力、跨领域学习能力、群体智能以及决策规划能力。本论坛汇聚了四位优秀的专家学者分别就大模型前沿问题进行汇报交流。包含了：在地球科学领域进行大语言模型训练，并探讨预训练的收敛性、数据清洗、特定数据的准备以及评测集的构建；以自然语言用户界面控制为应用场景，介绍了相关数据集和技术范式，讨论语言模型在规划、决策、控制和交互等领域所具有的潜力；以多方对话为背景探讨近年来用于多方对话理解和生成的预训练语言模型以及基于图结构引导的微调方法；以医疗领域的华佗GPT为例，详细阐述了专业领域大型模型所面临的挑战，并提出了未来的发展方向。%0ALOCATION:%0ABEGIN:VALARM%0ATRIGGER:-PT10M%0AACTION:DISPLAY%0ADESCRIPTION:Reminder%0AEND:VALARM%0ALOCATION:http://www.mlnlp.world/mlnlp2023/%0AEND:VEVENT%0AEND:VCALENDAR",
+  "google": "https://calendar.google.com/calendar/r/eventedit?dates=20230924T155000%2F20230924T175000&text=%5BMLNLP%202023%5D%20Session%206%20大模型技术与应用&details=注册链接：https://event.baai.ac.cn/event/705 论坛简介：随着大型语言模型的兴起，其展现了强大的涌现能力、跨领域学习能力、群体智能以及决策规划能力。本论坛汇聚了四位优秀的专家学者分别就大模型前沿问题进行汇报交流。包含了：在地球科学领域进行大语言模型训练，并探讨预训练的收敛性、数据清洗、特定数据的准备以及评测集的构建；以自然语言用户界面控制为应用场景，介绍了相关数据集和技术范式，讨论语言模型在规划、决策、控制和交互等领域所具有的潜力；以多方对话为背景探讨近年来用于多方对话理解和生成的预训练语言模型以及基于图结构引导的微调方法；以医疗领域的华佗GPT为例，详细阐述了专业领域大型模型所面临的挑战，并提出了未来的发展方向。&ctz=Asia%2FShanghai&location=http://www.mlnlp.world/mlnlp2023/",
+  "outlook": "https://outlook.live.com/owa?rru=addevent&startdt=2023-09-24T15:50:00&enddt=2023-09-24T17:50:00&subject=%5BMLNLP%202023%5D%20Session%206%20大模型技术与应用&body=注册链接：https://event.baai.ac.cn/event/705 论坛简介：随着大型语言模型的兴起，其展现了强大的涌现能力、跨领域学习能力、群体智能以及决策规划能力。本论坛汇聚了四位优秀的专家学者分别就大模型前沿问题进行汇报交流。包含了：在地球科学领域进行大语言模型训练，并探讨预训练的收敛性、数据清洗、特定数据的准备以及评测集的构建；以自然语言用户界面控制为应用场景，介绍了相关数据集和技术范式，讨论语言模型在规划、决策、控制和交互等领域所具有的潜力；以多方对话为背景探讨近年来用于多方对话理解和生成的预训练语言模型以及基于图结构引导的微调方法；以医疗领域的华佗GPT为例，详细阐述了专业领域大型模型所面临的挑战，并提出了未来的发展方向。&allday=false&path=%2Fcalendar%2Fview%2FMonth&location=http://www.mlnlp.world/mlnlp2023/",
+  "session_slido_url": "https://app.sli.do/event/e2tALxHWFLNpQTYZb8dnso",
+  "session_list": [
+    {
+      "time": [
+        "15:50",
+        "16:20"
+      ],
+      "speaker": {
+        "img": "assets/img/speakers/linzhouhan.png",
+        "name": "林洲汉",
+        "desc": "上海交通大学助理教授 / 博士生导师",
+        "url": "https://hantek.github.io/"
+      },
+      "type": "专题报告",
+      "title": "Learning a Foundation Lanquage Model for Geoscience Knowledge Understanding and Utilization",
+      "slides": "",
+      "recoding": "",
+      "desc": "随着大型语言模型的兴起，其在各个学科与垂直领域上的应用存在巨大的前景和价值。本报告将以地球科学为垂直领域，介绍基于开源模型在垂直领域的数据清洗、预训练、微调及评测。我们将介绍在整个过程中我们遇到的挑战，包括预训练过程中的收敛性、数据清洗的步骤、SFT数据的收集与准备、以及评测集的构造。论文链接： https://arxiv.org/abs/2306.05064 在线demo：https://k2.acemap.info/"
+    },
+    {
+      "time": [
+        "16:20",
+        "16:50"
+      ],
+      "speaker": {
+        "img": "assets/img/speakers/zhangzhuosheng.png",
+        "name": "张倬胜",
+        "desc": "上海交通大学博士",
+        "url": "https://bcmi.sjtu.edu.cn/~zhangzs/"
+      },
+      "type": "专题报告",
+      "title": "基于自然语言控制的自动化代理",
+      "slides": "",
+      "recoding": "",
+      "desc": "随着语言模型在规划、决策、控制、交互等方面展现出巨大的潜力，构建自动化的人工智能代理（Autonomous AI Agent）逐渐成为现实。自动化代理的一项基本目标是在现实环境中，根据用户请求，规划求解路径并执行相应的动作。本报告将以自然语言UI控制（Natural Language User Interface）为应用场景，介绍代表性的数据集，探讨构建自动化代理的常见技术范式。此外，本报告将结合最近研究成果，讨论分析构建自动化代理的有效手段。最后，结合样例分析，展望未来的研究方向。"
+    },
+    {
+      "time": [
+        "16:50",
+        "17:20"
+      ],
+      "speaker": {
+        "img": "assets/img/speakers/gujiachen.png",
+        "name": "顾佳宸",
+        "desc": "中国科学技术大学博士",
+        "url": "http://home.ustc.edu.cn/~gujc/"
+      },
+      "type": "专题报告",
+      "title": "多方对话结构建模",
+      "slides": "",
+      "recoding": "",
+      "desc": "用于多方对话 (Multi-Party Conversation) 的各种神经网络模型在接收人识别、说话人识别和回复预测等各种任务上取得了令人瞩目的进步。但是，现有的方法通常忽略了多方对话中固有的复杂结构，而这些结构提供了至关重要的对话者和对话语句语义信息，并会帮助理解整个对话过程。本报告将介绍近年来用于多方对话理解和生成的一系列预训练语言模型和基于图结构引导的语言模型微调方法。"
+    },
+    {
+      "time": [
+        "17:20",
+        "17:50"
+      ],
+      "speaker": {
+        "img": "assets/img/speakers/wangbenyou.png",
+        "name": "王本友",
+        "desc": "香港中文大学（深圳）助理教授",
+        "url": "https://wabyking.github.io/old.html"
+      },
+      "type": "专题报告",
+      "title": "Medical large language models, the practice from HuatuoGPT",
+      "slides": "",
+      "recoding": "",
+      "desc": "大型模型对自然语言处理带来了重大变革。它们能在一些一般领域为用户提供有用的信息，从而提高学习和工作效率。然而，它们在专业领域的表现仍然落后于领域专家，比如经验丰富的医生和律师。在专业领域构建专家级的模型有很多挑战，涵盖评估、训练、数据、监管、效率等等。本报告将以医疗领域的华佗GPT为基础，详细阐述专业领域大型模型的挑战、实践和未来。华佗GPT的访问链接是https://www.huatuogpt.cn/. 华佗GPT的实践也可能为其他专业领域提供有价值的见解。"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+	"session_name": "Session 1: 大模型构建与微调 <span style=\"white-space: pre;word-break: break-word;\"> (9月23日 09:05-11:05) </span>",
+	"session_chair": "论坛主席：刘乾 (Sea AI Lab) &nbsp;&nbsp;&nbsp;&nbsp; 王亚庆 (Google Research)",
+	"session_desc": "随着数据规模的急剧增加和下游任务复杂度的快速增长，大模型的构建和微调已经成为深度学习研究的关键话题。本论坛主要关注大模型构建背后的原理和方法，包括大模型对齐、大模型工具学习、大模型高效微调，与大模型时代的研究方向。本论坛邀请四位知名研究人员分享他们关于大模型的研究成果，旨在为研究人员、学者和从业者提供大模型相关成果讨论与互动的平台。",
+	"session_time": [
+		"09:00",
+		"11:05"
+	],
+	"apple": "data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0ABEGIN:VTIMEZONE%0ATZID:Asia/Shanghai%0AX-LIC-LOCATION:Asia/Shanghai%0ABEGIN:STANDARD%0ATZOFFSETFROM:+0800%0ATZOFFSETTO:+0800%0ATZNAME:CST%0ADTSTART:19700101T000000%0AEND:STANDARD%0AEND:VTIMEZONE%0ABEGIN:VEVENT%0AURL:%0ADTSTART;TZID=Asia/Shanghai:20230923T090000%0ADTEND;TZID=Asia/Shanghai:20230923T110500%0ATZID:Asia/Shanghai%0ASUMMARY:%5BMLNLP%202023%5D%20Session%201:大模型构建与微调%0ADESCRIPTION:注册链接：https://event.baai.ac.cn/event/705 论坛简介：随着数据规模的急剧增加和下游任务复杂度的快速增长，大模型的构建和微调已经成为深度学习研究的关键话题。本论坛主要关注大模型构建背后的原理和方法，包括大模型对齐、大模型工具学习、大模型高效微调，与大模型时代的研究方向。本论坛邀请四位知名研究人员分享他们关于大模型的研究成果，旨在为研究人员、学者和从业者提供大模型相关成果讨论与互动的平台。%0ALOCATION:%0ABEGIN:VALARM%0ATRIGGER:-PT10M%0AACTION:DISPLAY%0ADESCRIPTION:Reminder%0AEND:VALARM%0ALOCATION:http://www.mlnlp.world/mlnlp2023/%0AEND:VEVENT%0AEND:VCALENDAR",
+	"google": "https://calendar.google.com/calendar/r/eventedit?dates=20230923T090000%2F20230923T110500&text=%5BMLNLP%202023%5D%20Session%201:大模型构建与微调&details=注册链接：https://event.baai.ac.cn/event/705 论坛简介：随着数据规模的急剧增加和下游任务复杂度的快速增长，大模型的构建和微调已经成为深度学习研究的关键话题。本论坛主要关注大模型构建背后的原理和方法，包括大模型对齐、大模型工具学习、大模型高效微调，与大模型时代的研究方向。本论坛邀请四位知名研究人员分享他们关于大模型的研究成果，旨在为研究人员、学者和从业者提供大模型相关成果讨论与互动的平台。&ctz=Asia%2FShanghai&location=http://www.mlnlp.world/mlnlp2023/",
+	"outlook": "https://outlook.live.com/owa?rru=addevent&startdt=2023-09-23T09:00:00&enddt=2023-09-23T11:05:00&subject=%5BMLNLP%202023%5D%20Session%201:大模型构建与微调&body=注册链接：https://event.baai.ac.cn/event/705  论坛简介：随着数据规模的急剧增加和下游任务复杂度的快速增长，大模型的构建和微调已经成为深度学习研究的关键话题。本论坛主要关注大模型构建背后的原理和方法，包括大模型对齐、大模型工具学习、大模型高效微调，与大模型时代的研究方向。本论坛邀请四位知名研究人员分享他们关于大模型的研究成果，旨在为研究人员、学者和从业者提供大模型相关成果讨论与互动的平台。&allday=false&path=%2Fcalendar%2Fview%2FMonth&location=http://www.mlnlp.world/mlnlp2023/",
+	"session_slido_url": "https://app.sli.do/event/fdGR7E3ZJVLA9GpWR5unFt",
+	"session_list": [
+		{
+			"time": [
+				"09:05",
+				"09:35"
+			],
+			"speaker": {
+				"img": "assets/img/speakers/liupengfei.png",
+				"name": "刘鹏飞",
+				"desc": "上海交通大学清源研究院长聘副教授",
+				"url": "http://pfliu.com/"
+			},
+			"type": "专题报告",
+			"title": "生成式人工智能下的自然语言处理研究",
+			"slides": "",
+			"recoding": "",
+			"desc": "本报告将讨论在生成式人工智能时代，自然语言处理学者该如何更好的进行学术研究。"
+		},
+		{
+			"time": [
+				"09:35",
+				"10:05"
+			],
+			"speaker": {
+				"img": "assets/img/speakers/caideng.png",
+				"name": "蔡登",
+				"desc": "腾讯AI Lab高级研究员",
+				"url": "https://jcyk.github.io/"
+			},
+			"type": "专题报告",
+			"title": "大模型对齐技术",
+			"slides": "",
+			"recoding": "",
+			"desc": "大模型在预训练时能潜在地从海量文本中获得强大的知识、理解、推理能力。为了充分释放这些能力并使模型的行为符合人类期望，对齐（aligment）技术成为了一个研究热点。本报告将介绍大模型对齐技术，包括其主要挑战、代表性工作以及未来发展方向。"
+		},
+		{
+			"time": [
+				"10:05",
+				"10:35"
+			],
+			"speaker": {
+				"img": "assets/img/speakers/linyankai.png",
+				"name": "林衍凯",
+				"desc": "中国人民大学高瓴人工智能学院准聘助理教授",
+				"url": "https://linyankai.github.io/"
+			},
+			"type": "专题报告",
+			"title": "大模型工具学习",
+			"slides": "",
+			"recoding": "",
+			"desc": "近年来，大模型在自然语言处理、计算机视觉、生物学等诸多领域展现出惊人的应用价值。大模型通过在大规模无监督数据上进行预训练，在复杂交互环境中展现出了非凡的理解、推理与决策能力。然而，大模型在特定领域的任务上仍存在一定的局限性。这些任务往往需要专业化的工具或领域知识才能有效解决。本报告的内容为大模型工具学习，介绍大模型如何能够理解和使用各种工具来完成任务，包括其统一框架、主要挑战和未来方向。"
+		},
+		{
+			"time": [
+				"10:35",
+				"11:05"
+			],
+			"speaker": {
+				"img": "assets/img/speakers/chentianlong.png",
+				"name": "陈天龙",
+				"desc": "麻省理工 / 哈佛大学博士后研究员<br>北卡罗来纳大学教堂山分校计算机系准聘助理教授",
+				"url": "https://tianlong-chen.github.io/"
+			},
+			"type": "专题报告",
+			"title": "高效大语言模型微调",
+			"slides": "",
+			"recoding": "",
+			"desc": "此报告会围绕高效大模型展开。首先会对经典的模型压算法（比如模型减枝，彩票假说）进行分享，这一部分会具体讲到如何从不规则的洗漱网络获得对硬件加速有益的规则洗漱性。之后，会对语言模型的高效微调算法进行全面的讲解，包括基于混合专家模型的高效训练，以及高效参数微调算法（比如从经典的 LoRA 形式如何获得更加泛化的高效分解）。最后，会展望下高效大模型面临的主要挑战和机遇。"
+		}
+	]
+}
