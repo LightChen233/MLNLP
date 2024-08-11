@@ -1,14 +1,14 @@
 {
-  "session_name": "Session 5: 大模型与知识图谱 <span style=\"white-space: pre;word-break: break-word;\"> (9月24日 13:30-15:30) </span>",
-  "session_chair": "论坛主席：张宁豫 (浙江大学) &nbsp;&nbsp;&nbsp;&nbsp; 吴天星 (东南大学)",
-  "session_desc": "知识图谱和大型语言模型都是用来表示和处理知识的手段。大模型补足了理解语言的能力，知识图谱则丰富了表示知识的方式，两者的深度结合必将为人工智能提供更为全面、可靠、可控的知识处理方法。本次大模型与知识图谱论坛邀请了四位优秀学者进行分享，他们将带来大模型与知识图谱领域的最新研究进展，并对知识图谱与大模型的融合之道展开深入探讨。",
+  "session_name": "Session 5: 跨模态大模型 <span style=\"white-space: pre;word-break: break-word;\"> (9月1日 13:30-15:30) </span>",
+  "session_chair": "论坛主席：费豪 (新加坡国立大学) &nbsp;&nbsp;&nbsp;&nbsp; 纪家沂 (厦门大学)",
+  "session_desc": "大语言模型的成功将通用人工智能（AGI）研究带入新的阶段，使得机器基本具备媲美人类的语言能力。然而，通用人工智能不仅需要处理语言信息，还需要同时具备视觉、语音等各种模态的信息处理能力，就像人类在跟这个世界交互的模式一样，涉及到各种模态信息。在这个背景下，构建强大的多模态大语言模型成为迈向通用人工智能的一个关键研究焦点。其中，多模态支持、跨模态信息交互、多模态能力评估等都是该方向的挑战性问题。围绕这些挑战，本论坛邀请领域内的四位优秀学者进行分享，他们将带来跨模态大语言模型研究的最新进展。",
   "session_time": [
     "13:30",
     "15:30"
   ],
-  "apple": "data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0ABEGIN:VTIMEZONE%0ATZID:Asia/Shanghai%0AX-LIC-LOCATION:Asia/Shanghai%0ABEGIN:STANDARD%0ATZOFFSETFROM:+0800%0ATZOFFSETTO:+0800%0ATZNAME:CST%0ADTSTART:19700101T000000%0AEND:STANDARD%0AEND:VTIMEZONE%0ABEGIN:VEVENT%0AURL:%0ADTSTART;TZID=Asia/Shanghai:20230924T133000%0ADTEND;TZID=Asia/Shanghai:20230924T153000%0ATZID:Asia/Shanghai%0ASUMMARY:%5BMLNLP%202023%5D%20Session%205%20大模型与知识图谱%0ADESCRIPTION:注册链接：https://event.baai.ac.cn/event/705 论坛简介：知识图谱和大型语言模型都是用来表示和处理知识的手段。大模型补足了理解语言的能力，知识图谱则丰富了表示知识的方式，两者的深度结合必将为人工智能提供更为全面、可靠、可控的知识处理方法。本次大模型与知识图谱论坛邀请了四位优秀学者进行分享，他们将带来大模型与知识图谱领域的最新研究进展，并对知识图谱与大模型的融合之道展开深入探讨。 %0ALOCATION:%0ABEGIN:VALARM%0ATRIGGER:-PT10M%0AACTION:DISPLAY%0ADESCRIPTION:Reminder%0AEND:VALARM%0ALOCATION:http://www.mlnlp.world/mlnlp2023/%0AEND:VEVENT%0AEND:VCALENDAR",
-  "google": "https://calendar.google.com/calendar/r/eventedit?dates=20230924T133000%2F20230924T153000&text=%5BMLNLP%202023%5D%20Session%205%20大模型与知识图谱&details=注册链接：https://event.baai.ac.cn/event/705 论坛简介：知识图谱和大型语言模型都是用来表示和处理知识的手段。大模型补足了理解语言的能力，知识图谱则丰富了表示知识的方式，两者的深度结合必将为人工智能提供更为全面、可靠、可控的知识处理方法。本次大模型与知识图谱论坛邀请了四位优秀学者进行分享，他们将带来大模型与知识图谱领域的最新研究进展，并对知识图谱与大模型的融合之道展开深入探讨。&ctz=Asia%2FShanghai&location=http://www.mlnlp.world/mlnlp2023/",
-  "outlook": "https://outlook.live.com/owa?rru=addevent&startdt=2023-09-24T13:30:00&enddt=2023-09-24T15:30:00&subject=%5BMLNLP%202023%5D%20Session%205%20大模型与知识图谱&body=注册链接：https://event.baai.ac.cn/event/705 论坛简介：知识图谱和大型语言模型都是用来表示和处理知识的手段。大模型补足了理解语言的能力，知识图谱则丰富了表示知识的方式，两者的深度结合必将为人工智能提供更为全面、可靠、可控的知识处理方法。本次大模型与知识图谱论坛邀请了四位优秀学者进行分享，他们将带来大模型与知识图谱领域的最新研究进展，并对知识图谱与大模型的融合之道展开深入探讨。&allday=false&path=%2Fcalendar%2Fview%2FMonth&location=http://www.mlnlp.world/mlnlp2023/",
+  "apple": "data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0ABEGIN:VTIMEZONE%0ATZID:Asia/Shanghai%0AX-LIC-LOCATION:Asia/Shanghai%0ABEGIN:STANDARD%0ATZOFFSETFROM:+0800%0ATZOFFSETTO:+0800%0ATZNAME:CST%0ADTSTART:19700101T000000%0AEND:STANDARD%0AEND:VTIMEZONE%0ABEGIN:VEVENT%0AURL:%0ADTSTART;TZID=Asia/Shanghai:20230924T133000%0ADTEND;TZID=Asia/Shanghai:20230924T153000%0ATZID:Asia/Shanghai%0ASUMMARY:%5BMLNLP%202023%5D%20Session%205%20跨模态大模型%0ADESCRIPTION:注册链接：https://event.baai.ac.cn/event/705 论坛简介：大语言模型的成功将通用人工智能（AGI）研究带入新的阶段，使得机器基本具备媲美人类的语言能力。然而，通用人工智能不仅需要处理语言信息，还需要同时具备视觉、语音等各种模态的信息处理能力，就像人类在跟这个世界交互的模式一样，涉及到各种模态信息。在这个背景下，构建强大的多模态大语言模型成为迈向通用人工智能的一个关键研究焦点。其中，多模态支持、跨模态信息交互、多模态能力评估等都是该方向的挑战性问题。围绕这些挑战，本论坛邀请领域内的四位优秀学者进行分享，他们将带来跨模态大语言模型研究的最新进展。 %0ALOCATION:%0ABEGIN:VALARM%0ATRIGGER:-PT10M%0AACTION:DISPLAY%0ADESCRIPTION:Reminder%0AEND:VALARM%0ALOCATION:http://www.mlnlp.world/mlnlp2023/%0AEND:VEVENT%0AEND:VCALENDAR",
+  "google": "https://calendar.google.com/calendar/r/eventedit?dates=20230924T133000%2F20230924T153000&text=%5BMLNLP%202023%5D%20Session%205%20跨模态大模型&details=注册链接：https://event.baai.ac.cn/event/705 论坛简介：大语言模型的成功将通用人工智能（AGI）研究带入新的阶段，使得机器基本具备媲美人类的语言能力。然而，通用人工智能不仅需要处理语言信息，还需要同时具备视觉、语音等各种模态的信息处理能力，就像人类在跟这个世界交互的模式一样，涉及到各种模态信息。在这个背景下，构建强大的多模态大语言模型成为迈向通用人工智能的一个关键研究焦点。其中，多模态支持、跨模态信息交互、多模态能力评估等都是该方向的挑战性问题。围绕这些挑战，本论坛邀请领域内的四位优秀学者进行分享，他们将带来跨模态大语言模型研究的最新进展。&ctz=Asia%2FShanghai&location=http://www.mlnlp.world/mlnlp2023/",
+  "outlook": "https://outlook.live.com/owa?rru=addevent&startdt=2023-09-24T13:30:00&enddt=2023-09-24T15:30:00&subject=%5BMLNLP%202023%5D%20Session%205%20跨模态大模型&body=注册链接：https://event.baai.ac.cn/event/705 论坛简介：大语言模型的成功将通用人工智能（AGI）研究带入新的阶段，使得机器基本具备媲美人类的语言能力。然而，通用人工智能不仅需要处理语言信息，还需要同时具备视觉、语音等各种模态的信息处理能力，就像人类在跟这个世界交互的模式一样，涉及到各种模态信息。在这个背景下，构建强大的多模态大语言模型成为迈向通用人工智能的一个关键研究焦点。其中，多模态支持、跨模态信息交互、多模态能力评估等都是该方向的挑战性问题。围绕这些挑战，本论坛邀请领域内的四位优秀学者进行分享，他们将带来跨模态大语言模型研究的最新进展。&allday=false&path=%2Fcalendar%2Fview%2FMonth&location=http://www.mlnlp.world/mlnlp2023/",
   "session_slido_url": "https://app.sli.do/event/nbXRg4BHF6jfqjKF6oVfbq",
   "session_list": [
     {
@@ -17,16 +17,16 @@
         "14:00"
       ],
       "speaker": {
-        "img": "assets/img/speakers/renfeiliang.png",
-        "name": "任飞亮",
-        "desc": "东北大学副教授 / 博士生导师 / 计算机科学系主任",
-        "url": "http://faculty.neu.edu.cn/renfeiliang/zh_CN/index.htm"
+        "img": "assets/img/speakers/wangwenhai.png",
+        "name": "王文海",
+        "desc": "香港中文大学博士后",
+        "url": "https://whai362.github.io/"
       },
       "type": "专题报告",
-      "title": "大语言模型增强知识图谱构建--TechGPT的初步实践",
+      "title": "书生·万象 InternVL 2.0: 通过渐进式策略扩展开源多模态模型的性能边界",
       "slides": "",
       "recoding": "",
-      "desc": "以ChatGPT为代表的大语言模型具有出色的任务泛化能力，可以胜任多项自然语言处理任务、并在各项任务中均展现出强大的性能。在此大语言模型浪潮下，知识图谱研究应该如何进一步发展是近期研究者不断讨论的一个问题。基于研究小组近期的TechGPT工作，本报告将从\"大语言模型增强知识图谱构建\"的角度，介绍研究小组近期在知识图谱构建过程中融入大模型知识方面所进行的一些初步实践，并对未来知识图谱研究的发展趋势进行一定的展望。"
+      "desc": "随着大语言模型的兴起，多模态大模型也取得了显著进步，推动了复杂的视觉语言对话和交互，弥合了文本与视觉信息之间的鸿沟。然而，现有的开源模型与商用闭源模型（如GPT-4o和Gemini 1.5 Pro）之间的能力差距仍然显著。本报告将探讨图文多模态大模型的基本原理和技术，探索如何利用开源套件构建强大的多模态大模型，研究如何通过渐进式策略扩展开源多模态模型的性能边界，以缩小开源模型与商业闭源模型在多模态理解方面的能力差距。"
     },
     {
       "time": [
@@ -34,16 +34,16 @@
         "14:30"
       ],
       "speaker": {
-        "img": "assets/img/speakers/chenyubo.png",
-        "name": "陈玉博",
-        "desc": "中国科学院自动化研究所副研究员",
-        "url": "https://people.ucas.ac.cn/~yubochen"
+        "img": "assets/img/speakers/lixiangtai.png",
+        "name": "李祥泰",
+        "desc": "字节跳动算法研究员",
+        "url": "https://lxtgh.github.io/"
       },
       "type": "专题报告",
-      "title": "预训练语言模型中的知识分析、萃取与增强",
+      "title": "OMG-Seg/OMG-LLaVA: 统一的细粒度感知与理解框架",
       "slides": "",
       "recoding": "",
-      "desc": "近年来，大规模预训练语言模型在知识密集型的自然语言处理任务上取得了令人瞩目的进步。这似乎表明，预训练语言模型能够自发地从语料中学习大量知识，并隐式地保存在参数之中。然而，这一现象的背后机理仍然萦绕着许多谜团。语言模型究竟掌握了哪些知识，如何提取和利用这些知识，如何用外部知识弥补模型不足，这些问题都亟待进一步探索。该报告将重点介绍预训练语言模型知识分析、知识萃取、知识增强等领域的基础知识和近期研究进展。"
+      "desc": "近期，多模态大语言模型（MLLM）的研究获得了持续火热的关注，其中细粒度的多模态感知和推理方向涌现了各种不同的Benchmark和解决方案，大多数的解决方案都是基于不同的感知模型结合大语言模型去解决对应的问题，而我们的目标是寻求一种更加简单和统一的方法把不同层次的感知和理解任务统一到一起。为此我们首先提出了OMG-Seg框架，它是一种统一的分割模型可以把超过10个以上的不同的分割任务统一到一个框架下，仅仅使用70M的训练参数，即在多个不同的分割数据集上取得不错的结果。接着，我们给出了和经典的多模态的LLaVA结构想结合，提出了OMG-LLaVA。该模型做到了把细粒度分割任务和多模态任务在三个不同层次上（Image-level，Object-level，Pixel-level）做到了模型的训练和测试上完全统一。"
     },
     {
       "time": [
@@ -51,16 +51,16 @@
         "15:00"
       ],
       "speaker": {
-        "img": "assets/img/speakers/zhaosendong.png",
-        "name": "赵森栋",
-        "desc": "哈尔滨工业大学副教授 / 博士生导师",
-        "url": ""
+        "img": "assets/img/speakers/geyuying.png",
+        "name": "葛玉莹",
+        "desc": "腾讯ARC Lab高级研究员",
+        "url": "https://geyuying.github.io/"
       },
       "type": "专题报告",
-      "title": "面向智慧医疗的大语言模型微调技术",
+      "title": "SEED系列：统一理解和生成的多模态大模型",
       "slides": "",
       "recoding": "",
-      "desc": "大语言模型，如GPT系列模型，在各种自然语言处理任务中表现卓越。为了使这些模型更适应特定应用场景，研究人员通常采用一种被称为“微调”的技术。微调是在大规模数据集上预训练模型然后在特定任务的小型数据集上进行精细化训练的技术。尤其是在医疗行业的大模型应用面临特殊的挑战。本报告将深入探讨大语言模型的“微调”技术，包括指令微调、提示微调、低秩适配微调、知识微调等技术。本报告将介绍这些微调方法的基本原理，以及我们在医疗领域大模型上的实践。"
+      "desc": "统一理解和生成的多模态大模型，通过支持多模态信号的输入和输出，提供了更自然的交互体验，也有望建模多模态世界。我们提出基于离散化解决方案的统一理解和生成任务的多模态开源基础模型SEED-LLaMA，并进一步推出基于连续视觉表征的SEED-X，探讨统一理解和生成的大模型在真实世界中的潜在应用场景。"
     },
     {
       "time": [
@@ -68,16 +68,16 @@
         "15:30"
       ],
       "speaker": {
-        "img": "assets/img/speakers/hulinmei.png",
-        "name": "胡琳梅",
-        "desc": "北京理工大学副教授 / 特别研究员",
-        "url": "https://cs.bit.edu.cn/szdw/jsml/js/hlm/index.htm"
+        "img": "assets/img/speakers/feihao.png",
+        "name": "费豪",
+        "desc": "新加坡国立大学研究员 / 新加坡Skywork AI联合研究员",
+        "url": "https://haofei.vip/"
       },
       "type": "专题报告",
-      "title": "知识增强大语言模型",
+      "title": "探索从统一的多模态大模型Generalist到AGI之路",
       "slides": "",
       "recoding": "",
-      "desc": "近来，以ChatGPT为代表的生成式大语言模型在各类自然语言处理任务上均有优异表现，这得益于大模型具备的巨大参数量蕴含的丰富知识。然而，模型在记忆和理解信息上仍存在局限性，例如模型输出内容存在事实性错误、幻觉问题，模型面对同一问题的回答存在不确定性，模型训练过程可控性差等。利用外部知识增强大语言模型是缓解这些问题的有效手段，通过在大语言模型训练过程中融入外部知识有助于提升模型训练可控性，缓解模型幻觉问题。本报告将重点介绍知识增强大语言模型的最新研究进展，包括参数高效的知识增强大模型推理、基于人格的知识增强的对话生成等。"
+      "desc": "近期，多模态大语言模型（MLLM）的研究获得了持续火热的关注，社区里各种新颖模型的研发推陈出新。MLLM在通向Human-level Generalist或AGI之路上已展露出巨大的潜力。我们断言，作为多模态foundation模型，未来的MLLM必然会朝着更加统一的方向发展。一方面要包含更加统一的模态支持，另一方面要支持更加细粒度、深入的功能任务统一。为此，我将分别介绍NExT-GPT和Vitron, 我们两个代表性的、分别在统一模态和统一功能上的MLLM工作。然而目前绝大部分的MLLM都是基于以语言为核心的LLM构建而成，这种语言偏向性的多模态模式可能潜在地阻碍了MLLM实现真正多模态能力的强大潜力。所以本报告将接着探讨如何构建去语言中心化的原生MLLM，在原生多模态上见证scaling law。最后从MLLM evaluation角度讨论，从统一的MLLM Generalist到AGI的路径，是否可认为MLLM在benchmark上取得了更高的分数就认为距离真正的AGI更近了？我们认为不是，而实现跨模态跨任务的泛化协同能力才是！所以我们引出一个近期关于MLLM的evaluation工作，深入探索了对于MLLM如何实现从Generalist到AGI的路线。"
     }
   ]
 }

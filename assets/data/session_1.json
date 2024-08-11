@@ -1,14 +1,14 @@
 {
-	"session_name": "Session 1: 大模型构建与微调 <span style=\"white-space: pre;word-break: break-word;\"> (9月23日 09:05-11:05) </span>",
-	"session_chair": "论坛主席：刘乾 (Sea AI Lab) &nbsp;&nbsp;&nbsp;&nbsp; 王亚庆 (Google Research)",
-	"session_desc": "随着数据规模的急剧增加和下游任务复杂度的快速增长，大模型的构建和微调已经成为深度学习研究的关键话题。本论坛主要关注大模型构建背后的原理和方法，包括大模型对齐、大模型工具学习、大模型高效微调，与大模型时代的研究方向。本论坛邀请四位知名研究人员分享他们关于大模型的研究成果，旨在为研究人员、学者和从业者提供大模型相关成果讨论与互动的平台。",
+	"session_name": "Session 1: 大模型智能体 <span style=\"white-space: pre;word-break: break-word;\"> (8月31日 09:05-11:05) </span>",
+	"session_chair": "论坛主席：钱忱 (清华大学) &nbsp;&nbsp;&nbsp;&nbsp; 从鑫 (清华大学)",
+	"session_desc": "随着大语言模型的发展和智能体应用的深入，本论坛将聚焦于大语言模型与智能体技术的最新研究与实践。论坛邀请了来自学术界和工业界的技术专家，将涵盖基于强化学习的决策智能体、大语言模型驱动的智能体、在信息不对称环境下智能体的应用、以及在医疗领域的创新应用。",
 	"session_time": [
 		"09:00",
 		"11:05"
 	],
-	"apple": "data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0ABEGIN:VTIMEZONE%0ATZID:Asia/Shanghai%0AX-LIC-LOCATION:Asia/Shanghai%0ABEGIN:STANDARD%0ATZOFFSETFROM:+0800%0ATZOFFSETTO:+0800%0ATZNAME:CST%0ADTSTART:19700101T000000%0AEND:STANDARD%0AEND:VTIMEZONE%0ABEGIN:VEVENT%0AURL:%0ADTSTART;TZID=Asia/Shanghai:20230923T090000%0ADTEND;TZID=Asia/Shanghai:20230923T110500%0ATZID:Asia/Shanghai%0ASUMMARY:%5BMLNLP%202023%5D%20Session%201:大模型构建与微调%0ADESCRIPTION:注册链接：https://event.baai.ac.cn/event/705 论坛简介：随着数据规模的急剧增加和下游任务复杂度的快速增长，大模型的构建和微调已经成为深度学习研究的关键话题。本论坛主要关注大模型构建背后的原理和方法，包括大模型对齐、大模型工具学习、大模型高效微调，与大模型时代的研究方向。本论坛邀请四位知名研究人员分享他们关于大模型的研究成果，旨在为研究人员、学者和从业者提供大模型相关成果讨论与互动的平台。%0ALOCATION:%0ABEGIN:VALARM%0ATRIGGER:-PT10M%0AACTION:DISPLAY%0ADESCRIPTION:Reminder%0AEND:VALARM%0ALOCATION:http://www.mlnlp.world/mlnlp2023/%0AEND:VEVENT%0AEND:VCALENDAR",
-	"google": "https://calendar.google.com/calendar/r/eventedit?dates=20230923T090000%2F20230923T110500&text=%5BMLNLP%202023%5D%20Session%201:大模型构建与微调&details=注册链接：https://event.baai.ac.cn/event/705 论坛简介：随着数据规模的急剧增加和下游任务复杂度的快速增长，大模型的构建和微调已经成为深度学习研究的关键话题。本论坛主要关注大模型构建背后的原理和方法，包括大模型对齐、大模型工具学习、大模型高效微调，与大模型时代的研究方向。本论坛邀请四位知名研究人员分享他们关于大模型的研究成果，旨在为研究人员、学者和从业者提供大模型相关成果讨论与互动的平台。&ctz=Asia%2FShanghai&location=http://www.mlnlp.world/mlnlp2023/",
-	"outlook": "https://outlook.live.com/owa?rru=addevent&startdt=2023-09-23T09:00:00&enddt=2023-09-23T11:05:00&subject=%5BMLNLP%202023%5D%20Session%201:大模型构建与微调&body=注册链接：https://event.baai.ac.cn/event/705  论坛简介：随着数据规模的急剧增加和下游任务复杂度的快速增长，大模型的构建和微调已经成为深度学习研究的关键话题。本论坛主要关注大模型构建背后的原理和方法，包括大模型对齐、大模型工具学习、大模型高效微调，与大模型时代的研究方向。本论坛邀请四位知名研究人员分享他们关于大模型的研究成果，旨在为研究人员、学者和从业者提供大模型相关成果讨论与互动的平台。&allday=false&path=%2Fcalendar%2Fview%2FMonth&location=http://www.mlnlp.world/mlnlp2023/",
+	"apple": "data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0ABEGIN:VTIMEZONE%0ATZID:Asia/Shanghai%0AX-LIC-LOCATION:Asia/Shanghai%0ABEGIN:STANDARD%0ATZOFFSETFROM:+0800%0ATZOFFSETTO:+0800%0ATZNAME:CST%0ADTSTART:19700101T000000%0AEND:STANDARD%0AEND:VTIMEZONE%0ABEGIN:VEVENT%0AURL:%0ADTSTART;TZID=Asia/Shanghai:20230923T090000%0ADTEND;TZID=Asia/Shanghai:20230923T110500%0ATZID:Asia/Shanghai%0ASUMMARY:%5BMLNLP%202023%5D%20Session%201:大模型智能体%0ADESCRIPTION:注册链接：https://event.baai.ac.cn/event/705 论坛简介：随着大语言模型的发展和智能体应用的深入，本论坛将聚焦于大语言模型与智能体技术的最新研究与实践。论坛邀请了来自学术界和工业界的技术专家，将涵盖基于强化学习的决策智能体、大语言模型驱动的智能体、在信息不对称环境下智能体的应用、以及在医疗领域的创新应用。%0ALOCATION:%0ABEGIN:VALARM%0ATRIGGER:-PT10M%0AACTION:DISPLAY%0ADESCRIPTION:Reminder%0AEND:VALARM%0ALOCATION:http://www.mlnlp.world/mlnlp2023/%0AEND:VEVENT%0AEND:VCALENDAR",
+	"google": "https://calendar.google.com/calendar/r/eventedit?dates=20230923T090000%2F20230923T110500&text=%5BMLNLP%202023%5D%20Session%201:大模型智能体&details=注册链接：https://event.baai.ac.cn/event/705 论坛简介：随着大语言模型的发展和智能体应用的深入，本论坛将聚焦于大语言模型与智能体技术的最新研究与实践。论坛邀请了来自学术界和工业界的技术专家，将涵盖基于强化学习的决策智能体、大语言模型驱动的智能体、在信息不对称环境下智能体的应用、以及在医疗领域的创新应用。&ctz=Asia%2FShanghai&location=http://www.mlnlp.world/mlnlp2023/",
+	"outlook": "https://outlook.live.com/owa?rru=addevent&startdt=2023-09-23T09:00:00&enddt=2023-09-23T11:05:00&subject=%5BMLNLP%202023%5D%20Session%201:大模型智能体&body=注册链接：https://event.baai.ac.cn/event/705  论坛简介：随着大语言模型的发展和智能体应用的深入，本论坛将聚焦于大语言模型与智能体技术的最新研究与实践。论坛邀请了来自学术界和工业界的技术专家，将涵盖基于强化学习的决策智能体、大语言模型驱动的智能体、在信息不对称环境下智能体的应用、以及在医疗领域的创新应用。&allday=false&path=%2Fcalendar%2Fview%2FMonth&location=http://www.mlnlp.world/mlnlp2023/",
 	"session_slido_url": "https://app.sli.do/event/fdGR7E3ZJVLA9GpWR5unFt",
 	"session_list": [
 		{
@@ -17,16 +17,16 @@
 				"09:35"
 			],
 			"speaker": {
-				"img": "assets/img/speakers/liupengfei.png",
-				"name": "刘鹏飞",
-				"desc": "上海交通大学清源研究院长聘副教授",
-				"url": "http://pfliu.com/"
+				"img": "assets/img/speakers/maohangyu.png",
+				"name": "毛航宇",
+				"desc": "快手科技快意大模型知识增强研发负责人",
+				"url": "https://maohangyu.github.io/"
 			},
 			"type": "专题报告",
-			"title": "生成式人工智能下的自然语言处理研究",
+			"title": "从决策(多)智能体到大语言模型(多)智能体",
 			"slides": "",
 			"recoding": "",
-			"desc": "本报告将讨论在生成式人工智能时代，自然语言处理学者该如何更好的进行学术研究。"
+			"desc": "以ChatGPT为代表的大语言模型是人工智能领域最火爆的研究热点之一，而AI Agent（智能体）是大语言模型最有潜力的应用方式之一。本报告系统梳理基于强化学习的决策智能体和多智能体研究，同时介绍基于大语言模型的AI Agent和Mulit-Agent研究，最后在不泄露公司机密的前提下分享一些在企业实践中的心得体会。"
 		},
 		{
 			"time": [
@@ -34,16 +34,16 @@
 				"10:05"
 			],
 			"speaker": {
-				"img": "assets/img/speakers/caideng.png",
-				"name": "蔡登",
-				"desc": "腾讯AI Lab高级研究员",
-				"url": "https://jcyk.github.io/"
+				"img": "assets/img/speakers/zhangzhong.png",
+				"name": "张众",
+				"desc": "清华大学自然语言处理实验室（THUNLP）博士后",
+				"url": ""
 			},
 			"type": "专题报告",
-			"title": "大模型对齐技术",
+			"title": "大模型驱动的自主智能体",
 			"slides": "",
 			"recoding": "",
-			"desc": "大模型在预训练时能潜在地从海量文本中获得强大的知识、理解、推理能力。为了充分释放这些能力并使模型的行为符合人类期望，对齐（aligment）技术成为了一个研究热点。本报告将介绍大模型对齐技术，包括其主要挑战、代表性工作以及未来发展方向。"
+			"desc": "通过海量数据的训练，大模型涌现出了强大的知识理解与推理规划能力。基于大模型所构建的智能体是一种高度自主的智能实体，能够根据给定目标自主地感知环境、规划任务和执行决策，在各个领域展现出了极大的应用潜力。此外，多个智能体通过相互沟通和协作形成复杂的智能群体，进一步涌现出更强大的AI智能。本报告将介绍构建大模型智能体的重要挑战、关键技术、应用实践和未来发展方向。"
 		},
 		{
 			"time": [
@@ -51,16 +51,16 @@
 				"10:35"
 			],
 			"speaker": {
-				"img": "assets/img/speakers/linyankai.png",
-				"name": "林衍凯",
-				"desc": "中国人民大学高瓴人工智能学院准聘助理教授",
-				"url": "https://linyankai.github.io/"
+				"img": "assets/img/speakers/liuwei.png",
+				"name": "刘维",
+				"desc": "面壁智能研究员",
+				"url": ""
 			},
 			"type": "专题报告",
-			"title": "大模型工具学习",
+			"title": "不对称环境下的大语言模型多智能体系统",
 			"slides": "",
 			"recoding": "",
-			"desc": "近年来，大模型在自然语言处理、计算机视觉、生物学等诸多领域展现出惊人的应用价值。大模型通过在大规模无监督数据上进行预训练，在复杂交互环境中展现出了非凡的理解、推理与决策能力。然而，大模型在特定领域的任务上仍存在一定的局限性。这些任务往往需要专业化的工具或领域知识才能有效解决。本报告的内容为大模型工具学习，介绍大模型如何能够理解和使用各种工具来完成任务，包括其统一框架、主要挑战和未来方向。"
+			"desc": "当前的大语言模型驱动的多智能体系统相关的研究多将群体视为一个整体，用于解决复杂的知识密集型任务。本报告将介绍多智能体系统的另一种范式，关注群体中不同的个体如何在信息不对称的环境下完成信息密集型任务。具体而言，我们构建了iAgents平台，在该平台上每个人类用户都拥有自己的个人智能体，能够作为人类用户的化身，在真实的社交关系与信息不对称的场景中去自主协作解决问题。本报告将介绍iAgents相关的平台构建、用于优化智能体处理信息不对称问题的信息导航技术，以及智能体在多个信息不对称benchmark上的表现。"
 		},
 		{
 			"time": [
@@ -68,16 +68,16 @@
 				"11:05"
 			],
 			"speaker": {
-				"img": "assets/img/speakers/chentianlong.png",
-				"name": "陈天龙",
-				"desc": "麻省理工 / 哈佛大学博士后研究员<br>北卡罗来纳大学教堂山分校计算机系准聘助理教授",
-				"url": "https://tianlong-chen.github.io/"
+				"img": "assets/img/speakers/maweizhi.png",
+				"name": "马为之",
+				"desc": "清华大学智能产业研究院助理研究员",
+				"url": "https://mawz12.github.io/"
 			},
 			"type": "专题报告",
-			"title": "高效大语言模型微调",
+			"title": "面向医疗场景的可进化智能体研究尝试",
 			"slides": "",
 			"recoding": "",
-			"desc": "此报告会围绕高效大模型展开。首先会对经典的模型压算法（比如模型减枝，彩票假说）进行分享，这一部分会具体讲到如何从不规则的洗漱网络获得对硬件加速有益的规则洗漱性。之后，会对语言模型的高效微调算法进行全面的讲解，包括基于混合专家模型的高效训练，以及高效参数微调算法（比如从经典的 LoRA 形式如何获得更加泛化的高效分解）。最后，会展望下高效大模型面临的主要挑战和机遇。"
+			"desc": "近年来，医疗场景已成为人工智能研究和应用的重要方向，我们主要开展大模型和智能体技术在医疗的研究应用，提升医疗场景的智能化水平。近期，我们开展了名为Agent Hospital的研究工作，通过模拟院内流程，结合大语言模型和少量知识能够实现较好的虚拟患者病历构建；基于这些虚拟病历，我们设计了虚拟医疗智能体的自主进化方法，不断从成功诊疗案例中总结经验、从失败案例中反思教训，在多个诊疗任务上实现准确率持续提升。在诊疗近万名虚拟病人后（人类医生大约需要2年时间），虚拟医生能够在MedQA数据集呼吸道疾病子集上超越当前最优模型。"
 		}
 	]
 }

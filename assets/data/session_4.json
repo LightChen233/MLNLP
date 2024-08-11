@@ -1,14 +1,14 @@
 {
-  "session_name": "Session 4: 多模态多语言大模型 <span style=\"white-space: pre;word-break: break-word;\"> (9月24日 09:00-11:00) </span>",
-  "session_chair": "论坛主席：吴震 (南京大学) &nbsp;&nbsp;&nbsp;&nbsp; 王晶晶 (苏州大学)",
-  "session_desc": "大语言模型的成功将通用人工智能（AGI）研究带入新的阶段，使得机器基本具备媲美人类的语言能力。然而，通用人工智能不仅需要处理语言信息，还需要同时具备视觉、语音等多个模态的信息处理能力。在这个背景下，构建强大的多模态多语言大模型成为迈向通用人工智能的下一个研究焦点。其中，模态间的信息互通、模型能力评估、价值对齐都是该方向的挑战性问题。围绕这些挑战，本论坛邀请领域内的四位优秀学者进行分享，他们将带来多模态多语言大模型研究的最新进展。",
+  "session_name": "Session 4: 具身智能 <span style=\"white-space: pre;word-break: break-word;\"> (9月1日 09:00-11:00) </span>",
+  "session_chair": "论坛主席：李永露 (上海交通大学) &nbsp;&nbsp;&nbsp;&nbsp; 邓志杰 (上海交通大学)",
+  "session_desc": "具身智能近期发展迅速，得到了学术界和工业界的极大关注，本次论坛将深入探讨这一领域的前沿技术，包含四个主题演讲，涵盖了从SLAM技术在推动通用人工智能发展中的应用，到通过多源信息学习具身智能操作策略的方法；从为策略学习建模任意点轨迹的新方法，到在三维世界中实现通用具身智能体的挑战与机遇。这些演讲将提供对具身智能未来发展的全面视角，促进跨学科的交流与合作，共同推动智能系统在理解、适应和交互于复杂三维环境中的能力。",
   "session_time": [
     "9:00",
     "11:00"
   ],
-  "apple": "data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0ABEGIN:VTIMEZONE%0ATZID:Asia/Shanghai%0AX-LIC-LOCATION:Asia/Shanghai%0ABEGIN:STANDARD%0ATZOFFSETFROM:+0800%0ATZOFFSETTO:+0800%0ATZNAME:CST%0ADTSTART:19700101T000000%0AEND:STANDARD%0AEND:VTIMEZONE%0ABEGIN:VEVENT%0AURL:%0ADTSTART;TZID=Asia/Shanghai:20230924T090000%0ADTEND;TZID=Asia/Shanghai:20230924T110000%0ATZID:Asia/Shanghai%0ASUMMARY:%5BMLNLP%202023%5D%20Session%204:多模态多语言大模型%0ADESCRIPTION:注册链接：https://event.baai.ac.cn/event/705 论坛简介：大语言模型的成功将通用人工智能（AGI）研究带入新的阶段，使得机器基本具备媲美人类的语言能力。然而，通用人工智能不仅需要处理语言信息，还需要同时具备视觉、语音等多个模态的信息处理能力。在这个背景下，构建强大的多模态多语言大模型成为迈向通用人工智能的下一个研究焦点。其中，模态间的信息互通、模型能力评估、价值对齐都是该方向的挑战性问题。围绕这些挑战，本论坛邀请领域内的四位优秀学者进行分享，他们将带来多模态多语言大模型研究的最新进展。%0ALOCATION:%0ABEGIN:VALARM%0ATRIGGER:-PT10M%0AACTION:DISPLAY%0ADESCRIPTION:Reminder%0AEND:VALARM%0ALOCATION:http://www.mlnlp.world/mlnlp2023/%0AEND:VEVENT%0AEND:VCALENDAR",
-  "google": "https://calendar.google.com/calendar/r/eventedit?dates=20230924T090000%2F20230924T110000&text=%5BMLNLP%202023%5D%20Session%204:多模态多语言大模型&details=注册链接：https://event.baai.ac.cn/event/705 论坛简介：大语言模型的成功将通用人工智能（AGI）研究带入新的阶段，使得机器基本具备媲美人类的语言能力。然而，通用人工智能不仅需要处理语言信息，还需要同时具备视觉、语音等多个模态的信息处理能力。在这个背景下，构建强大的多模态多语言大模型成为迈向通用人工智能的下一个研究焦点。其中，模态间的信息互通、模型能力评估、价值对齐都是该方向的挑战性问题。围绕这些挑战，本论坛邀请领域内的四位优秀学者进行分享，他们将带来多模态多语言大模型研究的最新进展。&ctz=Asia%2FShanghai&location=http://www.mlnlp.world/mlnlp2023/",
-  "outlook": "https://outlook.live.com/owa?rru=addevent&startdt=2023-09-24T09:00:00&enddt=2023-09-24T11:00:00&subject=%5BMLNLP%202023%5D%20Session%204:多模态多语言大模型&body=注册链接：https://event.baai.ac.cn/event/705  论坛简介：大语言模型的成功将通用人工智能（AGI）研究带入新的阶段，使得机器基本具备媲美人类的语言能力。然而，通用人工智能不仅需要处理语言信息，还需要同时具备视觉、语音等多个模态的信息处理能力。在这个背景下，构建强大的多模态多语言大模型成为迈向通用人工智能的下一个研究焦点。其中，模态间的信息互通、模型能力评估、价值对齐都是该方向的挑战性问题。围绕这些挑战，本论坛邀请领域内的四位优秀学者进行分享，他们将带来多模态多语言大模型研究的最新进展。&allday=false&path=%2Fcalendar%2Fview%2FMonth&location=http://www.mlnlp.world/mlnlp2023/",
+  "apple": "data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0ABEGIN:VTIMEZONE%0ATZID:Asia/Shanghai%0AX-LIC-LOCATION:Asia/Shanghai%0ABEGIN:STANDARD%0ATZOFFSETFROM:+0800%0ATZOFFSETTO:+0800%0ATZNAME:CST%0ADTSTART:19700101T000000%0AEND:STANDARD%0AEND:VTIMEZONE%0ABEGIN:VEVENT%0AURL:%0ADTSTART;TZID=Asia/Shanghai:20230924T090000%0ADTEND;TZID=Asia/Shanghai:20230924T110000%0ATZID:Asia/Shanghai%0ASUMMARY:%5BMLNLP%202023%5D%20Session%204:具身智能%0ADESCRIPTION:注册链接：https://event.baai.ac.cn/event/705 论坛简介：具身智能近期发展迅速，得到了学术界和工业界的极大关注，本次论坛将深入探讨这一领域的前沿技术，包含四个主题演讲，涵盖了从SLAM技术在推动通用人工智能发展中的应用，到通过多源信息学习具身智能操作策略的方法；从为策略学习建模任意点轨迹的新方法，到在三维世界中实现通用具身智能体的挑战与机遇。这些演讲将提供对具身智能未来发展的全面视角，促进跨学科的交流与合作，共同推动智能系统在理解、适应和交互于复杂三维环境中的能力。%0ALOCATION:%0ABEGIN:VALARM%0ATRIGGER:-PT10M%0AACTION:DISPLAY%0ADESCRIPTION:Reminder%0AEND:VALARM%0ALOCATION:http://www.mlnlp.world/mlnlp2023/%0AEND:VEVENT%0AEND:VCALENDAR",
+  "google": "https://calendar.google.com/calendar/r/eventedit?dates=20230924T090000%2F20230924T110000&text=%5BMLNLP%202023%5D%20Session%204:具身智能&details=注册链接：https://event.baai.ac.cn/event/705 论坛简介：具身智能近期发展迅速，得到了学术界和工业界的极大关注，本次论坛将深入探讨这一领域的前沿技术，包含四个主题演讲，涵盖了从SLAM技术在推动通用人工智能发展中的应用，到通过多源信息学习具身智能操作策略的方法；从为策略学习建模任意点轨迹的新方法，到在三维世界中实现通用具身智能体的挑战与机遇。这些演讲将提供对具身智能未来发展的全面视角，促进跨学科的交流与合作，共同推动智能系统在理解、适应和交互于复杂三维环境中的能力。&ctz=Asia%2FShanghai&location=http://www.mlnlp.world/mlnlp2023/",
+  "outlook": "https://outlook.live.com/owa?rru=addevent&startdt=2023-09-24T09:00:00&enddt=2023-09-24T11:00:00&subject=%5BMLNLP%202023%5D%20Session%204:具身智能&body=注册链接：https://event.baai.ac.cn/event/705  论坛简介：具身智能近期发展迅速，得到了学术界和工业界的极大关注，本次论坛将深入探讨这一领域的前沿技术，包含四个主题演讲，涵盖了从SLAM技术在推动通用人工智能发展中的应用，到通过多源信息学习具身智能操作策略的方法；从为策略学习建模任意点轨迹的新方法，到在三维世界中实现通用具身智能体的挑战与机遇。这些演讲将提供对具身智能未来发展的全面视角，促进跨学科的交流与合作，共同推动智能系统在理解、适应和交互于复杂三维环境中的能力。&allday=false&path=%2Fcalendar%2Fview%2FMonth&location=http://www.mlnlp.world/mlnlp2023/",
   "session_slido_url": "https://app.sli.do/event/mK8TG3PXnEyKWxq9MUDox4",
   "session_list": [
     {
@@ -17,16 +17,16 @@
         "09:30"
       ],
       "speaker": {
-        "img": "assets/img/speakers/feihao.jpg",
-        "name": "费豪",
-        "desc": "新加坡国立大学NExT++研究中心研究员 / 新加坡Sea AI lab联合研究员",
-        "url": "https://haofei.vip/"
+        "img": "assets/img/speakers/yinpeng.png",
+        "name": "殷鹏",
+        "desc": "香港城市大学助理教授",
+        "url": "https://www.cityu.edu.hk/mne/people/academic-staff/prof-yin-peng"
       },
       "type": "专题报告",
-      "title": "大语言模型赋能的文本到视觉扩散模型研究",
+      "title": "SLAM2.0：迈向通用人工智能时代",
       "slides": "",
       "recoding": "",
-      "desc": "当前，随着大模型和大规模训练技术的成熟，人工智能内容生成（AIGC）主题取得阶跃式的进步。一方面，大语言模型（LLM，如ChatGPT、LLaMA、Vicuna）被广泛证明其具有（近似）人类水平的语言理解能力。另一方面，作为跨模态生成的核心主题，文本到视觉的合成（Text-to-Vision Synthesis），即生成符合输入文本描述的图像或视频内容，得到了社区的越来越多的关注。相应地，以扩散模型（Diffusion）为核心的技术，诸如Stable Diffusion、DELLE-2以及Midjourney等优秀模型，帮助在视觉生成方面取得了令人振奋的进展。已有工作已点明，对于文本到视觉生成，其核心在于充分弥合语言和视觉模态之间所存在的天然鸿沟和差异。尽管目前大语言模型和扩散模型分别得到了足够的研究，但“利用大语言模型协助文本到视觉的合成”这一议题目前并未得到足够的探索。本报告首先分析大语言模型协助基于扩散模型的文本到视觉的合成的可行性与关键，再分别详细介绍大语言模型赋能的文本到图像和文本到视频两个成功探索工作。"
+      "desc": "SLAM（Simultaneous Localization and Mapping，即时定位与地图构建）技术作为智能机器人和自动驾驶等领域的核心技术之一，在过去的发展中，逐渐形成了一套以精度和稳定性为导向的系统。然而，随着机器人系统向通用性和智能化方向的快速发展，传统SLAM系统的局限性日益显现。SLAM2.0正是在此背景下提出的，它不仅是一门技术，也是一种艺术。\n类人定位导航系统的实现并不单纯依赖于高精度的3D地图构建和动态障碍物的精确检测。相反，SLAM2.0更加注重场景信息的复用和抽象，强调对于复杂场景的理解和思维能力的体现。通过引入场景管理子系统（Scene Operator），SLAM2.0能够有效地处理和利用环境中的多种信息，实现对于物理世界的高度抽象和灵活应对。定位导航系统中的“记忆”不仅仅是闭环检测和历史观测的回溯，更是构建世界模型的关键。生物体的记忆系统通过低成本、高效能地完成定位导航，启示我们需要一种更加方便快捷的思路来实现机器人系统的重定位和环境理解。SLAM2.0中的记忆仓库（Memory Tank）能够压缩和存储多模态的信息，保留场景的拓扑表达、静态和动态对象的空间关系以及多个场景间的隐式关联，最终实现智能体对于外部世界的深度认知和灵活决策。\nSLAM2.0不仅是对传统SLAM系统的一次升级，更是对人工智能时代中智能体定位导航系统的一次全新探索。它融合了多模态信息处理、记忆与世界模型构建、抽象思维等多方面的能力，旨在实现更加智能、高效和通用的机器人定位导航系统。SLAM2.0将引领我们迈向一个更加智慧的AI代理时代。"
     },
     {
       "time": [
@@ -34,16 +34,16 @@
         "10:00"
       ],
       "speaker": {
-        "img": "assets/img/speakers/yubowen.jpg",
-        "name": "郁博文",
-        "desc": "阿里巴巴达摩院算法专家",
-        "url": "https://yubowen-ph.github.io/"
+        "img": "assets/img/speakers/lvjun.png",
+        "name": "吕峻",
+        "desc": "上海交通大学博士",
+        "url": "https://lyuj1998.github.io/"
       },
       "type": "专题报告",
-      "title": "大语言模型的人类偏好对齐训练和评估",
+      "title": "Learn from X：从多种信息源中学习具身智能操作策略",
       "slides": "",
       "recoding": "",
-      "desc": "OpenAI推出的ChatGPT对话模型掀起了新的AI热潮，它面对多种多样的问题对答如流，似乎已经打破了机器和人的边界。然而，预训练语言模型产生的输出很大程度上与人类偏好并不一致。这主要是因为，大模型预训练时使用的的语料并不一定全是用户喜欢的内容。如果没有适当的对齐，语言模型可能输出和人类价值不符的误导性的、有害的或冒犯性内容。因此，通过收集人类反馈数据，进一步微调大模型，使模型与人类对齐，更加符合人类的偏好，是构建安全、可信、可控人工智能系统的必经之路。本次报告将会对强化学习、排序学习和条件生成这三类人类偏好对齐训练方法进行比较分析，并详细介绍如何高效且准确地评估模型是否成功实现与人类偏好的一致性。"
+      "desc": "近年来，随着scaling law在自然语言处理和计算机视觉等领域的成功验证，人们期望能够在具身智能领域复制这一经验。然而，与语言和视觉领域不同，具身智能面临着严重的数据瓶颈。为解决这一问题，我们致力于探索如何有效利用遥操作、仿真数据和人类演示数据等信息源，构建具身智能系统，以更低的数据成本实现具身操作策略的学习。"
     },
     {
       "time": [
@@ -51,16 +51,16 @@
         "10:30"
       ],
       "speaker": {
-        "img": "assets/img/speakers/zhangwenxuan.jpg",
-        "name": "张雯轩",
-        "desc": "阿里巴巴达摩院算法专家",
-        "url": "https://isakzhang.github.io/"
+        "img": "assets/img/speakers/wenchuan.png",
+        "name": "汶川",
+        "desc": "清华大学博士",
+        "url": "https://scholar.google.com/citations?user=G5M9nYwAAAAJ&hl=en&oi=sra"
       },
       "type": "专题报告",
-      "title": "M3Exam：多语言、多模态、多层级的大模型评测基准",
+      "title": "Any-point Trajectory Modeling for Policy Learning",
       "slides": "",
       "recoding": "",
-      "desc": "随着大语言模型的发展，公平有效的评估他们的能力成为了一个越来越重要的研究问题。尽管已经出现了一些评估基准，但我们认为，人类考试是评估大模型通用智力的更合适的载体，因为它们需要更广泛的能力且更符合日常真实的应用场景。 在这次报告中，我们将介绍 M3Exam，源自多个国家真实且官方的真人考试问题，用于在多语言、多模式和多层次的背景下评估大模型。 M3Exam呈现出三个独特的特点：（1）多语言性，涵盖多个国家的问题，需要很强的多语言能力和对他们背后对应的文化知识的掌握； （2）多模态，考虑很多试题的多模态性质，测试模型的对复杂多模态问题的理解能力； （3）多层次结构，考虑三个关键教育时期的考试，综合评估模型在不同层次的熟练程度。我们会讨论不同模型的表现，以及它所揭示出现有模型存在的不足。"
+      "desc": "演示学习是一种教授机器人新技能的强大方法，拥有更多的演示数据通常可以提高策略学习的效果。然而，收集演示数据的高成本是一个显著的瓶颈。视频通常被视为包含行为、物理和语义知识的丰富数据源，但由于缺乏动作标签，从视频中提取特定于控制的信息是具有挑战性的。在这次演讲中，我们介绍了一个新颖的框架——任意点轨迹建模（ATM），它通过预训练一个轨迹模型来利用视频演示，预测视频中任意点的未来轨迹。一旦训练完成，这些轨迹提供了详细的控制指导，使得在最小化动作标记数据的情况下，能够学习到鲁棒的视觉运动策略。"
     },
     {
       "time": [
@@ -68,16 +68,16 @@
         "11:00"
       ],
       "speaker": {
-        "img": "assets/img/speakers/wuchenfei.jpg",
-        "name": "吴晨飞",
-        "desc": "微软亚洲研究院高级研究员",
-        "url": "https://chenfei-wu.github.io/"
+        "img": "assets/img/speakers/huangsiyuan.png",
+        "name": "黄思远",
+        "desc": "北京通用人工智能研究院研究科学家 / 通用视觉实验室负责人 / 通院-宇树联合实验室主任",
+        "url": "https://siyuanhuang.com/"
       },
       "type": "专题报告",
-      "title": "DragNUWA: 细粒度可控的视频生成",
+      "title": "三维世界中的通用具身智能体",
       "slides": "",
       "recoding": "",
-      "desc": "随着AIGC的领域的快速发展，视频生成正日益成为关注焦点。已有的生成模型例如NUWA，Phenaki, Gen-2已经可以做到基于文本控制的视频生成。遗憾的是，现有的大部分模型在生成视频方面缺乏细粒度的控制能力，这无疑限制了它们的实用性和应用范围。例如，在电影拍摄和短视频制作过程中，常常需要复杂的运镜、人物的精细动作、甚至它们的复杂组合，而这些仅仅依靠文本是显然不够的。为了突破这一局限，微软亚洲研究院提出DragNUWA视频生成模型，凭借文本、图像和轨迹三个关键控制因素，从语义、空间和时间三个层面实现了强大的可控视频生成。相比于已有工作，DragNUWA的独特之处在于，允许用户直接在图像中拖拽物体或者背景，模型会自动将拖拽操作转化为运镜或者物体的运动，并生成视频。"
+      "desc": "创造通用具身智能体是人工智能研究的终极目标之一，目前的绝大多数智能体缺乏理解三维世界并构建世界模型的能力。如何让智能体理解三维世界并进行推理和交互是要解决的重要问题，也是通向通用人工智能的一个重大瓶颈。这次的课程将首先介绍三维场景理解对通用具身智能体的关键作用和其中的瓶颈，并详细展开我们最近的几项研究工作(SceneDiffuser, Arnold, LEO, SceneVerse, Ag2Manip, COME-Robot) 是如何尝试解决这些瓶颈问题，并逐步迈向通用具身智能的。"
     }
   ]
 }

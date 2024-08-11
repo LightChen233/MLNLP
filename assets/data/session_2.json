@@ -1,14 +1,14 @@
 {
-  "session_name": "Session 2: 大模型与推荐系统 <span style=\"white-space: pre;word-break: break-word;\"> (9月23日 13:30-15:30) </span>",
-  "session_chair": "论坛主席：王文杰 (新加坡国立大学NExT++) &nbsp;&nbsp;&nbsp;&nbsp; 赵翔宇 (香港城市大学)",
-  "session_desc": "在这个信息爆炸的时代，推荐系统作为一种个性化信息过滤的关键技术，已经在各行各业起到了不可或缺的重要作用。如今，大语言模型技术的快速发展，也带动了推荐系统的技术变革。大模型强大的自然语言理解能力、推理能力、泛化能力、和生成能力，对推荐系统生态产生了重要影响，在用户反馈收集、特征工程、知识表征、推荐系统学习范式等方向上涌现出一系列新的工作。本次大模型与推荐系统论坛邀请了四位来自工业界和学术界的优秀学者进行分享，他们分别从大模型应用现状、范式转变等角度切入，介绍大模型推荐系统领域最新的研究进展，探讨未来研究方向。",
+  "session_name": "Session 2: 多语言大模型 <span style=\"white-space: pre;word-break: break-word;\"> (8月31日 13:30-15:30) </span>",
+  "session_chair": "论坛主席：张雯轩 (阿里巴巴达摩院) &nbsp;&nbsp;&nbsp;&nbsp; 邓扬 (新加坡管理大学)",
+  "session_desc": "本次论坛将聚焦于大型语言模型在多语言场景下的最新研究与应用。四位来自学术界和工业界的杰出专家将探讨大模型的多语言能力，包括其在机器翻译和预训练模型中的应用，分析其在多语言场景下的安全隐患，并展示专为东南亚语言开发的大型语言模型SeaLLMs。此外，还将回顾多语言大模型的发展历程，讨论其在自然语言处理中的技术、应用及未来展望。通过这些主题，论坛旨在促进对多语言大模型的深入理解和应用，为语言技术的公平性和包容性贡献力量。",
   "session_time": [
     "13:30",
     "15:30"
   ],
-  "apple": "data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0ABEGIN:VTIMEZONE%0ATZID:Asia/Shanghai%0AX-LIC-LOCATION:Asia/Shanghai%0ABEGIN:STANDARD%0ATZOFFSETFROM:+0800%0ATZOFFSETTO:+0800%0ATZNAME:CST%0ADTSTART:19700101T000000%0AEND:STANDARD%0AEND:VTIMEZONE%0ABEGIN:VEVENT%0AURL:%0ADTSTART;TZID=Asia/Shanghai:20230923T133000%0ADTEND;TZID=Asia/Shanghai:20230923T153000%0ATZID:Asia/Shanghai%0ASUMMARY:%5BMLNLP%202023%5D%20Session%202:大模型与推荐系统%0ADESCRIPTION:注册链接：https://event.baai.ac.cn/event/705 论坛简介：在这个信息爆炸的时代，推荐系统作为一种个性化信息过滤的关键技术，已经在各行各业起到了不可或缺的重要作用。如今，大语言模型技术的快速发展，也带动了推荐系统的技术变革。大模型强大的自然语言理解能力、推理能力、泛化能力、和生成能力，对推荐系统生态产生了重要影响，在用户反馈收集、特征工程、知识表征、推荐系统学习范式等方向上涌现出一系列新的工作。本次大模型与推荐系统论坛邀请了四位来自工业界和学术界的优秀学者进行分享，他们分别从大模型应用现状、范式转变等角度切入，介绍大模型推荐系统领域最新的研究进展，探讨未来研究方向。%0ALOCATION:%0ABEGIN:VALARM%0ATRIGGER:-PT10M%0AACTION:DISPLAY%0ADESCRIPTION:Reminder%0AEND:VALARM%0ALOCATION:http://www.mlnlp.world/mlnlp2023/%0AEND:VEVENT%0AEND:VCALENDAR",
-  "google": "https://calendar.google.com/calendar/r/eventedit?dates=20230923T133000%2F20230923T153000&text=%5BMLNLP%202023%5D%20Session%202:大模型与推荐系统&details=注册链接：https://event.baai.ac.cn/event/705 论坛简介：在这个信息爆炸的时代，推荐系统作为一种个性化信息过滤的关键技术，已经在各行各业起到了不可或缺的重要作用。如今，大语言模型技术的快速发展，也带动了推荐系统的技术变革。大模型强大的自然语言理解能力、推理能力、泛化能力、和生成能力，对推荐系统生态产生了重要影响，在用户反馈收集、特征工程、知识表征、推荐系统学习范式等方向上涌现出一系列新的工作。本次大模型与推荐系统论坛邀请了四位来自工业界和学术界的优秀学者进行分享，他们分别从大模型应用现状、范式转变等角度切入，介绍大模型推荐系统领域最新的研究进展，探讨未来研究方向。&ctz=Asia%2FShanghai&location=http://www.mlnlp.world/mlnlp2023/",
-  "outlook": "https://outlook.live.com/owa?rru=addevent&startdt=2023-09-23T13:30:00&enddt=2023-09-23T15:30:00&subject=%5BMLNLP%202024%5D%20Session%202:大模型与推荐系统&body=注册链接：https://event.baai.ac.cn/event/705 论坛简介：在这个信息爆炸的时代，推荐系统作为一种个性化信息过滤的关键技术，已经在各行各业起到了不可或缺的重要作用。如今，大语言模型技术的快速发展，也带动了推荐系统的技术变革。大模型强大的自然语言理解能力、推理能力、泛化能力、和生成能力，对推荐系统生态产生了重要影响，在用户反馈收集、特征工程、知识表征、推荐系统学习范式等方向上涌现出一系列新的工作。本次大模型与推荐系统论坛邀请了四位来自工业界和学术界的优秀学者进行分享，他们分别从大模型应用现状、范式转变等角度切入，介绍大模型推荐系统领域最新的研究进展，探讨未来研究方向。&allday=false&path=%2Fcalendar%2Fview%2FMonth&location=http://www.mlnlp.world/mlnlp2023/",
+  "apple": "data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0ABEGIN:VTIMEZONE%0ATZID:Asia/Shanghai%0AX-LIC-LOCATION:Asia/Shanghai%0ABEGIN:STANDARD%0ATZOFFSETFROM:+0800%0ATZOFFSETTO:+0800%0ATZNAME:CST%0ADTSTART:19700101T000000%0AEND:STANDARD%0AEND:VTIMEZONE%0ABEGIN:VEVENT%0AURL:%0ADTSTART;TZID=Asia/Shanghai:20230923T133000%0ADTEND;TZID=Asia/Shanghai:20230923T153000%0ATZID:Asia/Shanghai%0ASUMMARY:%5BMLNLP%202023%5D%20Session%202:多语言大模型%0ADESCRIPTION:注册链接：https://event.baai.ac.cn/event/705 论坛简介：本次论坛将聚焦于大型语言模型在多语言场景下的最新研究与应用。四位来自学术界和工业界的杰出专家将探讨大模型的多语言能力，包括其在机器翻译和预训练模型中的应用，分析其在多语言场景下的安全隐患，并展示专为东南亚语言开发的大型语言模型SeaLLMs。此外，还将回顾多语言大模型的发展历程，讨论其在自然语言处理中的技术、应用及未来展望。通过这些主题，论坛旨在促进对多语言大模型的深入理解和应用，为语言技术的公平性和包容性贡献力量。%0ALOCATION:%0ABEGIN:VALARM%0ATRIGGER:-PT10M%0AACTION:DISPLAY%0ADESCRIPTION:Reminder%0AEND:VALARM%0ALOCATION:http://www.mlnlp.world/mlnlp2023/%0AEND:VEVENT%0AEND:VCALENDAR",
+  "google": "https://calendar.google.com/calendar/r/eventedit?dates=20230923T133000%2F20230923T153000&text=%5BMLNLP%202023%5D%20Session%202:多语言大模型&details=注册链接：https://event.baai.ac.cn/event/705 论坛简介：本次论坛将聚焦于大型语言模型在多语言场景下的最新研究与应用。四位来自学术界和工业界的杰出专家将探讨大模型的多语言能力，包括其在机器翻译和预训练模型中的应用，分析其在多语言场景下的安全隐患，并展示专为东南亚语言开发的大型语言模型SeaLLMs。此外，还将回顾多语言大模型的发展历程，讨论其在自然语言处理中的技术、应用及未来展望。通过这些主题，论坛旨在促进对多语言大模型的深入理解和应用，为语言技术的公平性和包容性贡献力量。&ctz=Asia%2FShanghai&location=http://www.mlnlp.world/mlnlp2023/",
+  "outlook": "https://outlook.live.com/owa?rru=addevent&startdt=2023-09-23T13:30:00&enddt=2023-09-23T15:30:00&subject=%5BMLNLP%202024%5D%20Session%202:多语言大模型&body=注册链接：https://event.baai.ac.cn/event/705 论坛简介：本次论坛将聚焦于大型语言模型在多语言场景下的最新研究与应用。四位来自学术界和工业界的杰出专家将探讨大模型的多语言能力，包括其在机器翻译和预训练模型中的应用，分析其在多语言场景下的安全隐患，并展示专为东南亚语言开发的大型语言模型SeaLLMs。此外，还将回顾多语言大模型的发展历程，讨论其在自然语言处理中的技术、应用及未来展望。通过这些主题，论坛旨在促进对多语言大模型的深入理解和应用，为语言技术的公平性和包容性贡献力量。&allday=false&path=%2Fcalendar%2Fview%2FMonth&location=http://www.mlnlp.world/mlnlp2023/",
   "session_slido_url": "https://app.sli.do/event/wHVRXRnEAKFh4RtaC52hc2",
   "session_list": [
     {
@@ -17,16 +17,16 @@
         "14:00"
       ],
       "speaker": {
-        "img": "assets/img/speakers/tangruiming.png",
-        "name": "唐睿明",
-        "desc": "华为诺亚方舟实验室推荐与搜索实验室主任",
-        "url": "https://scholar.google.com/citations?user=fUtHww0AAAAJ"
+        "img": "assets/img/speakers/huangkaiyu.png",
+        "name": "黄锴宇",
+        "desc": "北京交通大学计算机科学与技术学院讲师",
+        "url": "https://scholar.google.com/citations?user=qAp-hS4AAAAJ/"
       },
       "type": "专题报告",
-      "title": "大语言模型在推荐系统应用现状与初探",
+      "title": "大模型的多语言能力探索与展望",
       "slides": "",
       "recoding": "",
-      "desc": "大语言模型为推荐系统提供了充分的语义信号和外部知识，但存在缺乏协同信号和线上推理时延问题。在本报告中，我们探究了推荐模型如何从大语言模型中受益，从而优化推荐性能和用户体验。我们首先介绍了一篇工业应用视角的综述工作，从Where和How两个角度，全面回顾了现有将大语言模型应用于推荐系统的工作。接着，我们将分享两个将大语言模型应用于推荐系统的技术框架。根据综述中对于How问题的分析，从模型角度，我们提出了一个利用大语言模型开放知识辅助推荐的通用框架；从数据角度，我们提出一个对齐大语言模型和协同信号的通用框架。"
+      "desc": "近年，以ChatGPT为代表的大规模语言模型（LLMs）飞速发展，在自然语言处理上展现出惊人的效果，引起了全球性关注，俨然成为了新一轮科技革命的重要驱动力量，深刻改变着人类生产、生活和学习方式，在社会发展中发挥着重要的作用。大模型正在深刻重构数字世界和现实世界，同时展示了在自然语言处理中具备一定多语言能力。为了减轻潜在的歧视，提高不同语言用户群体的整体可用性和可访问性，开发语言公平技术非常重要。为此，我们从多个角度对LLM在多语言场景中的应用进行了探索。首先我们重新思考了过去和现在关于预训练语言模型的研究之间的范式转换。然后，我们验证了关于LLM多语言性的几个观点，包括训练和推理方法、模型安全性、具有语言文化的多领域以及数据集的使用。我们还将讨论这些方面出现的主要挑战以及可能的解决方案。此外，我们将强调未来的研究方向，旨在进一步加强LLMs的多语言能力。该调查旨在帮助研究界解决多语言问题，并全面了解基于LLM的多语言自然语言处理的核心概念、关键技术和最新发展。"
     },
     {
       "time": [
@@ -34,16 +34,16 @@
         "14:30"
       ],
       "speaker": {
-        "img": "assets/img/speakers/yuanfajie.png",
-        "name": "原发杰",
-        "desc": "西湖大学助理教授",
-        "url": "https://fajieyuan.github.io/"
+        "img": "assets/img/speakers/wangwenxuan.png",
+        "name": "王文轩",
+        "desc": "香港中文大学博士",
+        "url": "https://jarviswang94.github.io/"
       },
       "type": "专题报告",
-      "title": "推荐系统预训练与迁移学习范式应用现状与初探",
+      "title": "大模型在多语言场景下的安全隐患",
       "slides": "",
       "recoding": "",
-      "desc": "最近几年，预训练与迁移学习范式在NLP与CV领域取得很多颠覆性的成果，例如BERT与GPT系列，相比之下，推荐系统领域的预训练与迁移学习研究式仍然处于早期探索阶段，整个社区仍然无法回答推荐系统是否会有自己的one-for-all预训练模型。在本报告中，我们将回顾推荐系统领域预训练模型的一些进展，以及我们团队在该方向的一些工作。进一步，我们指出推荐系统ID范式可能是阻碍推荐系统通用大模型的主要障碍之一，并对推荐系统模型未来是否有望颠覆ID范式，实现通用大模型进行相应探究。"
+      "desc": "大语言模型的用户来自世界各地，用着各自不同的语言与大语言模型交流。为此，大模型的开发者们会使用多语言数据训练大模型，以增强大模型多语言能力。然而，受限于语料库和对齐数据资源的限制，训练数据在语言之间往往是不平衡的，比方说英文数据多，其他语言的数据少。这将会导致模型在多语言使用场景中存在一些安全隐患。讲者发现，一方面高资源语料的知识向低资源语言迁移能力不足，造成低资源语言上的安全性不足；另一方面，部分领域的知识盲目的从高资源语言向低资源语言迁移，造成了语言之间文化入侵的问题。本报告重点介绍了讲者在ACL 24上发表的两篇论文，从语言间安全对齐差异和跨语言文化入侵两个角度讨论了其在大模型在多语言场景上的思考。"
     },
     {
       "time": [
@@ -51,16 +51,16 @@
         "15:00"
       ],
       "speaker": {
-        "img": "assets/img/speakers/majianxin.png",
-        "name": "马坚鑫",
-        "desc": "阿里巴巴基础大模型M6团队",
-        "url": "https://jianxinma.github.io/"
+        "img": "assets/img/speakers/chenhaobang.png",
+        "name": "陈浩邦",
+        "desc": "阿里巴巴达摩院语言技术实验室算法专家",
+        "url": ""
       },
       "type": "专题报告",
-      "title": "生成式通用大模型及其驱动的产品交互",
+      "title": "SeaLLMs - 东南亚语言专属的大型语言模型",
       "slides": "",
       "recoding": "",
-      "desc": "人工智能技术的发展会不断带来产品交互方式上的重大革新，例如早期的搜索引擎和后来的推荐系统。近年来，生成式大模型的发展也必然会引发一波新的交互创新浪潮，尽管这种创新的最终形式目前还不确定。本报告将指出团队在两三年前参与搜索推荐产品时所感知到的困境。并介绍在那个时间点选择转向基础大模型领域后，所研发出的M6、OFA、及近期的Qwen等通用大模型。报告还将穿插讨论大模型在产品交互革新方面的潜力。"
+      "desc": "大型语言模型在各种任务中都表现出非凡的能力，但它们的开发主要集中在英语和中文等高资源语言上，低资源语言则被忽视。为了解决这一差距，我们推出了 SeaLLMs，一个专为东南亚语言量身定制的大型语言模型。东南亚地区以其丰富的语言多样性为特点，缺乏足够的语言技术支持。SeaLLMs 3 旨在通过覆盖该地区使用的广泛语言来弥补这一差距，包括英语、中文、印尼语、越南语、泰语、他加禄语、马来语、缅甸语、高棉语、老挝语、泰米尔语和爪哇语。通过利用高效的语言增强技术和专门构建的指令微调数据集，SeaLLMs 3在显着降低训练成本的同时，保持了高性能和多功能性。我们的模型在世界知识、数学推理、翻译和指令遵循等任务中表现出色，在类似参数量的开源模型中达到了最先进的水平。此外，我们优先考虑了安全性和可靠性，既解决了普遍性问题，也考虑了文化特定的因素，并加入了减少幻觉的机制。这项工作强调了包容性人工智能的重要性，展示了先进的LLM能力可以惠及被忽视的语言和文化社区。"
     },
     {
       "time": [
@@ -68,16 +68,16 @@
         "15:30"
       ],
       "speaker": {
-        "img": "assets/img/speakers/wangwenjie.png",
-        "name": "王文杰",
-        "desc": "新加坡国立大学NExT++研究员",
-        "url": "https://wenjiewwj.github.io/"
+        "img": "assets/img/speakers/qinlibo.png",
+        "name": "覃立波",
+        "desc": "中南大学特聘教授",
+        "url": "https://faculty.csu.edu.cn/qinlibo/zh_CN/index.htm"
       },
       "type": "专题报告",
-      "title": "大模型推荐技术现状与展望",
+      "title": "多语言大模型技术、应用及展望",
       "slides": "",
       "recoding": "",
-      "desc": "大语言模型（LLM）以其卓越的语言理解、推理和规划能力，在多个领域展现出惊人的潜力，也催生了LLM在推荐系统领域的新应用与发展，旨在提升推荐性能并改善用户体验。本报告将介绍大语言模型如何应用到推荐技术，讨论相关进展，包括基于上下文学习的LLM推荐能力的激发，和基于指令微调的LLM推荐任务对齐。并进一步探讨大模型推荐的未来发展机遇与挑战。"
+      "desc": "全球有近7000种语言，多语言大模型能够将大模型的能力扩展到多语言场景，近年来受到了极大地关注。本次报告中，我们首先提出基于跨语言对齐的视角统一整理了多语言大模型的发展历程。接着介绍我们在该方向的部分探索。最后介绍多语言大模型领域的未来展望。"
     }
   ]
 }
