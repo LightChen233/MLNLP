@@ -19,7 +19,7 @@
       "speaker": {
         "img": "assets/img/speakers/wangzijian.png",
         "name": "王子健",
-        "desc": "亚马逊云科技人工智能实验室 / Amazon Q Developer团队技术主管经理",
+        "desc": "亚马逊 Q Developer 团队技术主管经理",
         "url": "https://zijianwang.me/"
       },
       "type": "专题报告",
@@ -54,12 +54,12 @@
         "img": "assets/img/speakers/zhuoyue.png",
         "name": "卓越",
         "desc": "莫纳什大学博士 / 澳大利亚联邦科学与工业研究组织研究工程师",
-        "url": ""
+        "url": "https://terryyz.github.io/"
       },
       "type": "专题报告",
       "title": "BigCodeBench: 新一代大模型代码生成基准与评测生态",
       "slides": "",
-      "recoding": "https://terryyz.github.io/",
+      "recoding": "",
       "desc": "本报告将详细介绍新一代代码生成基准测试 BigCodeBench 的发展与应用。BigCodeBench 是一个旨在评估大语言模型代码生成能力的基准测试，通过模拟真实软件开发需求和复杂指令的编程任务，全面测试模型的性能。该基准测试包含由 BigCode 社区成员共同构建的超过一千个编程任务，涵盖约140个常用库，横跨多个应用领域。 BigCodeBench 提供了一个完整且透明的评估框架，并设有实时更新的评测榜单，广受社区和多家知名大模型开发企业的关注和支持。其评测生态系统已逐渐成为为数不多的主流代码生成基准测试之一。 此外，本报告将探讨 BigCodeBench 的可持续发展生态，包括其未来的开发路线和近期成果。通过不断更新和完善，BigCodeBench 致力于推动大语言模型在代码生成领域的进步，为研究人员和开发者提供一个可靠的评测工具和平台。"
     },
     {
