@@ -82,42 +82,6 @@
 						</div>`)
                     html_str = ""
                     for (var i = 0; i < data.session_list.length; i++) {
-                        // if (index == 3 && i == 0) {
-                        //     html_str += `
-                        // 		<div class="row schedule-item">
-                        // 			<div class="col-2">
-                        // 				<div class="row calender-container">
-                        // 					<time>` + data.session_list[i].time[0] + `</time>
-                        // 					<time class="end-time">` + data.session_list[i].time[1] + `</time>
-                        // 				</div>
-                        // 			</div>
-                        // 			<div class="col-10">
-                        // 			    <div class="label-box">
-                        // 			        <div class="label">` + data.session_list[i].type + `</div>
-                        // 			    </div>
-
-                        // 			    <div class="speaker-box">
-                        // 			    	<a class="speaker"  href="http://nlp.nju.edu.cn/huangsj/">
-                        //                         <img src="assets/img/speakers/huangshujian.png" alt="黄书剑">
-                        //                     </a>
-                        //                     <a class="speaker second-speaker"  href="https://owennju.github.io/">
-                        //                         <img src="assets/img/speakers/zhuwenhao.png" alt="朱文昊">
-                        //                     </a>
-                        // 			    </div>
-                        // 				<div class="speaker-title-display">
-                        //                     <a href="http://nlp.nju.edu.cn/huangsj/" target="_blank">
-                        // 						<h4 class="first-title">黄书剑 <span class="span-block">南京大学计算机科学与技术系副教授</span> </h4>
-                        // 					</a>
-                        // 					<a href="https://owennju.github.io/" target="_blank">
-                        // 						<h4>朱文昊 <span class="span-block">南京大学计算机科学与技术系博士生</span> </h4>
-                        // 					</a>
-                        //                 </div>
-                        // 				<p class="item-title"><strong>` + data.session_list[i].title + `</strong>&nbsp;&nbsp;` + data.session_list[i].slides + `&nbsp;&nbsp;` + data.session_list[i].recoding + `</p>
-                        // 				<p class="item-body">` + data.session_list[i].desc + `
-                        // 				</p>
-                        // 			</div>
-                        // 		</div>`
-                        // } else {
                         html_str += `
                             <div class="row schedule-item">
                                 <div class="col-2">
