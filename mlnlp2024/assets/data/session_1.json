@@ -1,20 +1,20 @@
 {
-	"session_name": "Session 1: 大模型智能体 <span style=\"white-space: pre;word-break: break-word;\"> (8月31日 09:05-11:05) </span>",
+	"session_name": "Session 1: 大模型智能体 <span style=\"white-space: pre;word-break: break-word;\"> (8月31日 09:00-11:00) </span>",
 	"session_chair": "论坛主席：钱忱 (清华大学) &nbsp;&nbsp;&nbsp;&nbsp; 从鑫 (清华大学)",
 	"session_desc": "随着大语言模型的发展和智能体应用的深入，本论坛将聚焦于大语言模型与智能体技术的最新研究与实践。论坛邀请了来自学术界和工业界的技术专家，将涵盖基于强化学习的决策智能体、大语言模型驱动的智能体、在信息不对称环境下智能体的应用、以及在医疗领域的创新应用。",
 	"session_time": [
-		"09:05",
-		"11:05"
+		"09:00",
+		"11:00"
 	],
-	"apple": "data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0ABEGIN:VTIMEZONE%0ATZID:Asia/Shanghai%0AX-LIC-LOCATION:Asia/Shanghai%0ABEGIN:STANDARD%0ATZOFFSETFROM:+0800%0ATZOFFSETTO:+0800%0ATZNAME:CST%0ADTSTART:19700101T000000%0AEND:STANDARD%0AEND:VTIMEZONE%0ABEGIN:VEVENT%0AURL:%0ADTSTART;TZID=Asia/Shanghai:20240831T090500%0ADTEND;TZID=Asia/Shanghai:20240831T110500%0ATZID:Asia/Shanghai%0ASUMMARY:%5BMLNLP%202024%5D%20Session%201:大模型智能体%0ADESCRIPTION:随着大语言模型的发展和智能体应用的深入，本论坛将聚焦于大语言模型与智能体技术的最新研究与实践。论坛邀请了来自学术界和工业界的技术专家，将涵盖基于强化学习的决策智能体、大语言模型驱动的智能体、在信息不对称环境下智能体的应用、以及在医疗领域的创新应用。%0ALOCATION:%0ABEGIN:VALARM%0ATRIGGER:-PT10M%0AACTION:DISPLAY%0ADESCRIPTION:Reminder%0AEND:VALARM%0ALOCATION:http://www.mlnlp.org/mlnlp2024/%0AEND:VEVENT%0AEND:VCALENDAR",
-	"google": "https://calendar.google.com/calendar/r/eventedit?dates=20240831T090500%2F20240831T110500&text=%5BMLNLP%202024%5D%20Session%201:大模型智能体&details=随着大语言模型的发展和智能体应用的深入，本论坛将聚焦于大语言模型与智能体技术的最新研究与实践。论坛邀请了来自学术界和工业界的技术专家，将涵盖基于强化学习的决策智能体、大语言模型驱动的智能体、在信息不对称环境下智能体的应用、以及在医疗领域的创新应用。&ctz=Asia%2FShanghai&location=http://www.mlnlp.org/mlnlp2024/",
-	"outlook": "https://outlook.live.com/owa?rru=addevent&startdt=2024-08-31T09:05:00&enddt=2024-08-31T11:05:00&subject=%5BMLNLP%202024%5D%20Session%201:大模型智能体&body=随着大语言模型的发展和智能体应用的深入，本论坛将聚焦于大语言模型与智能体技术的最新研究与实践。论坛邀请了来自学术界和工业界的技术专家，将涵盖基于强化学习的决策智能体、大语言模型驱动的智能体、在信息不对称环境下智能体的应用、以及在医疗领域的创新应用。&allday=false&path=%2Fcalendar%2Fview%2FMonth&location=http://www.mlnlp.org/mlnlp2024/",
+	"apple": "data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0ABEGIN:VTIMEZONE%0ATZID:Asia/Shanghai%0AX-LIC-LOCATION:Asia/Shanghai%0ABEGIN:STANDARD%0ATZOFFSETFROM:+0800%0ATZOFFSETTO:+0800%0ATZNAME:CST%0ADTSTART:19700101T000000%0AEND:STANDARD%0AEND:VTIMEZONE%0ABEGIN:VEVENT%0AURL:%0ADTSTART;TZID=Asia/Shanghai:20240831T090000%0ADTEND;TZID=Asia/Shanghai:20240831T110000%0ATZID:Asia/Shanghai%0ASUMMARY:%5BMLNLP%202024%5D%20Session%201:大模型智能体%0ADESCRIPTION:随着大语言模型的发展和智能体应用的深入，本论坛将聚焦于大语言模型与智能体技术的最新研究与实践。论坛邀请了来自学术界和工业界的技术专家，将涵盖基于强化学习的决策智能体、大语言模型驱动的智能体、在信息不对称环境下智能体的应用、以及在医疗领域的创新应用。%0ALOCATION:%0ABEGIN:VALARM%0ATRIGGER:-PT10M%0AACTION:DISPLAY%0ADESCRIPTION:Reminder%0AEND:VALARM%0ALOCATION:http://www.mlnlp.org/mlnlp2024/%0AEND:VEVENT%0AEND:VCALENDAR",
+	"google": "https://calendar.google.com/calendar/r/eventedit?dates=20240831T090000%2F20240831T110000&text=%5BMLNLP%202024%5D%20Session%201:大模型智能体&details=随着大语言模型的发展和智能体应用的深入，本论坛将聚焦于大语言模型与智能体技术的最新研究与实践。论坛邀请了来自学术界和工业界的技术专家，将涵盖基于强化学习的决策智能体、大语言模型驱动的智能体、在信息不对称环境下智能体的应用、以及在医疗领域的创新应用。&ctz=Asia%2FShanghai&location=http://www.mlnlp.org/mlnlp2024/",
+	"outlook": "https://outlook.live.com/owa?rru=addevent&startdt=2024-08-31T09:00:00&enddt=2024-08-31T11:00:00&subject=%5BMLNLP%202024%5D%20Session%201:大模型智能体&body=随着大语言模型的发展和智能体应用的深入，本论坛将聚焦于大语言模型与智能体技术的最新研究与实践。论坛邀请了来自学术界和工业界的技术专家，将涵盖基于强化学习的决策智能体、大语言模型驱动的智能体、在信息不对称环境下智能体的应用、以及在医疗领域的创新应用。&allday=false&path=%2Fcalendar%2Fview%2FMonth&location=http://www.mlnlp.org/mlnlp2024/",
 	"session_slido_url": "https://app.sli.do/event/bY7sFN3MAKzj4KK1WUmnZE",
 	"session_list": [
 		{
 			"time": [
-				"09:05",
-				"09:35"
+				"09:00",
+				"09:30"
 			],
 			"speaker": {
 				"img": "assets/img/speakers/maohangyu.png",
@@ -30,8 +30,8 @@
 		},
 		{
 			"time": [
-				"09:35",
-				"10:05"
+				"09:30",
+				"10:00"
 			],
 			"speaker": {
 				"img": "assets/img/speakers/zhangzhong.png",
@@ -47,8 +47,8 @@
 		},
 		{
 			"time": [
-				"10:05",
-				"10:35"
+				"10:00",
+				"10:30"
 			],
 			"speaker": {
 				"img": "assets/img/speakers/liuwei.png",
@@ -64,8 +64,8 @@
 		},
 		{
 			"time": [
-				"10:35",
-				"11:05"
+				"10:30",
+				"11:00"
 			],
 			"speaker": {
 				"img": "assets/img/speakers/maweizhi.png",
