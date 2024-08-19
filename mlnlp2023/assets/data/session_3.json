@@ -1,0 +1,83 @@
+{
+  "session_name": "Session 3: 大模型评估与安全 <span style=\"white-space: pre;word-break: break-word;\"> (9月23日 15:50-17:50) </span>",
+  "session_chair": "论坛主席：吴雨婷 (北京交通大学)  &nbsp;&nbsp;&nbsp;&nbsp; 曹鹏飞 (中国科学院自动化研究所)",
+  "session_desc": "随着大模型技术的不断突破，各类大模型相继问世并迅速落地，如何准确且全面地评估各类大模型的真实性能是目前通用人工智能领域的焦点问题。尽管当下大模型发展迅猛，其在应用方面还存在很多风险和挑战，包括AI幻觉、生成内容不可控、安全以及歧视、偏见等问题。如何提高模型的准确度和可靠性，使AI生成的内容安全、可信、可靠，是当前大模型在应用方向亟待解决的问题。本次大模型评估与安全论坛邀请了四位来自国内外的优秀学者进行分享，他们分别从大模型的安全伦理风险、评测方法、稳健性和事实正确性等角度切入，带来大模型评估与安全领域最新的研究进展。",
+  "session_time": [
+    "15:50",
+    "18:20"
+  ],
+  "apple": "data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0ABEGIN:VTIMEZONE%0ATZID:Asia/Shanghai%0AX-LIC-LOCATION:Asia/Shanghai%0ABEGIN:STANDARD%0ATZOFFSETFROM:+0800%0ATZOFFSETTO:+0800%0ATZNAME:CST%0ADTSTART:19700101T000000%0AEND:STANDARD%0AEND:VTIMEZONE%0ABEGIN:VEVENT%0AURL:%0ADTSTART;TZID=Asia/Shanghai:20230923T155000%0ADTEND;TZID=Asia/Shanghai:20230923T175000%0ATZID:Asia/Shanghai%0ASUMMARY:%5BMLNLP%202023%5D%20Session%203:大模型评估与安全%0ADESCRIPTION:注册链接：https://event.baai.ac.cn/event/705 论坛简介：随着大模型技术的不断突破，各类大模型相继问世并迅速落地，如何准确且全面地评估各类大模型的真实性能是目前通用人工智能领域的焦点问题。尽管当下大模型发展迅猛，其在应用方面还存在很多风险和挑战，包括AI幻觉、生成内容不可控、安全以及歧视、偏见等问题。如何提高模型的准确度和可靠性，使AI生成的内容安全、可信、可靠，是当前大模型在应用方向亟待解决的问题。本次大模型评估与安全论坛邀请了四位来自国内外的优秀学者进行分享，他们分别从大模型的安全伦理风险、评测方法、稳健性和事实正确性等角度切入，带来大模型评估与安全领域最新的研究进展。%0ALOCATION:%0ABEGIN:VALARM%0ATRIGGER:-PT10M%0AACTION:DISPLAY%0ADESCRIPTION:Reminder%0AEND:VALARM%0ALOCATION:http://www.mlnlp.world/mlnlp2023/%0AEND:VEVENT%0AEND:VCALENDAR",
+  "google": "https://calendar.google.com/calendar/r/eventedit?dates=20230923T155000%2F20230923T175000&text=%5BMLNLP%202023%5D%20Session%203:大模型评估与安全&details=注册链接：https://event.baai.ac.cn/event/705 论坛简介：随着大模型技术的不断突破，各类大模型相继问世并迅速落地，如何准确且全面地评估各类大模型的真实性能是目前通用人工智能领域的焦点问题。尽管当下大模型发展迅猛，其在应用方面还存在很多风险和挑战，包括AI幻觉、生成内容不可控、安全以及歧视、偏见等问题。如何提高模型的准确度和可靠性，使AI生成的内容安全、可信、可靠，是当前大模型在应用方向亟待解决的问题。本次大模型评估与安全论坛邀请了四位来自国内外的优秀学者进行分享，他们分别从大模型的安全伦理风险、评测方法、稳健性和事实正确性等角度切入，带来大模型评估与安全领域最新的研究进展。&ctz=Asia%2FShanghai&location=http://www.mlnlp.world/mlnlp2023/",
+  "outlook": "https://outlook.live.com/owa?rru=addevent&startdt=2023-09-23T15:50:00&enddt=2023-09-23T17:50:00&subject=%5BMLNLP%202023%5D%20Session%203:大模型评估与安全&body=注册链接：https://event.baai.ac.cn/event/705 论坛简介：随着大模型技术的不断突破，各类大模型相继问世并迅速落地，如何准确且全面地评估各类大模型的真实性能是目前通用人工智能领域的焦点问题。尽管当下大模型发展迅猛，其在应用方面还存在很多风险和挑战，包括AI幻觉、生成内容不可控、安全以及歧视、偏见等问题。如何提高模型的准确度和可靠性，使AI生成的内容安全、可信、可靠，是当前大模型在应用方向亟待解决的问题。本次大模型评估与安全论坛邀请了四位来自国内外的优秀学者进行分享，他们分别从大模型的安全伦理风险、评测方法、稳健性和事实正确性等角度切入，带来大模型评估与安全领域最新的研究进展。&allday=false&path=%2Fcalendar%2Fview%2FMonth&location=http://www.mlnlp.world/mlnlp2023/",
+  "session_slido_url": "https://app.sli.do/event/n4CUDYPEMjf9heWb1ZntE4",
+  "session_list": [
+    {
+      "time": [
+        "15:50",
+        "16:20"
+      ],
+      "speaker": {
+        "img": "assets/img/speakers/guitao.jpg",
+        "name": "桂韬",
+        "desc": "复旦大学自然语言处理实验室副研究员",
+        "url": "https://guitaowufeng.github.io/"
+      },
+      "type": "专题报告",
+      "title": "大模型价值对齐——MOSS-RLHF",
+      "slides": "",
+      "recoding": "",
+      "desc": "Transformer 的大模型进化而来。而且，这种趋势正在向图像、语音、蛋白质序列预测、强化学习等多个领域蔓延。整个 AI 社区似乎出现了一种大一统的趋势。这种同质化也带来了一些隐患，因为基础模型的安全性、公平性、隐私性缺陷也会被所有下游模型所继承。本报告将介绍大模型的安全伦理风险以及带来的社会影响，探讨通过人类反馈的强化学习算法实现价值观对齐-MOSS RLHF，以及缓解安全伦理问题的可行方案。"
+    },
+    {
+      "time": [
+        "16:20",
+        "16:50"
+      ],
+      "speaker": {
+        "img": "assets/img/speakers/zhongwanjun.png",
+        "name": "钟宛君",
+        "desc": "华为诺亚方舟实验室研究员",
+        "url": "https://scholar.google.com/citations?hl=zh-CN&user=FGIZfyQAAAAJ"
+      },
+      "type": "专题报告",
+      "title": "大模型评估：从文本任务导向到真实人类任务导向",
+      "slides": "",
+      "recoding": "",
+      "desc": "随着大语言模型能力的快速增强，如何准确评估这些模型在处理真实人类任务上的表现已经成为通用人工智能（AGI）领域的焦点问题。尽管面向传统自然语言任务的评测方法可衡量机器在特定能力上的表现，但这往往难以全面反映模型是否能达到人类的知识和推理水平，进而帮助解决复杂任务。本讲座将重点探讨大模型在实际人类任务中的评测方法，分享最新的研究成果，并介绍我们新提出的评测基准AGIEval。AGIEval 旨在评估大模型在人类认知和问题解决方面的通用能力，并结合了多种高标准的人类考试作为评测标准。"
+    },
+    {
+      "time": [
+        "16:50",
+        "17:20"
+      ],
+      "speaker": {
+        "img": "assets/img/speakers/wangjindong.png",
+        "name": "王晋东",
+        "desc": "微软亚洲研究院主管研究员",
+        "url": "https://jd92.wang/"
+      },
+      "type": "专题报告",
+      "title": "大模型时代的理论、评测与模型增强",
+      "slides": "",
+      "recoding": "",
+      "desc": "大型模型的日益普及丰富了我们的日常生活，但其稳健性仍然是一个紧迫且未触及的领域。为了让大型模型能够更好地适用于各种条件下，我们应该关注其限制和能力不足，即改善其稳健性。在本次演讲中，我们将从稳健性的角度介绍我们的一些工作，使机器学习模型在意外情况下更加稳健。具体而言，我们关注了三种情况：大模型Transformer架构的基础理论、更好的模型评测、以及大模型的增强。"
+    },
+    {
+      "time": [
+        "17:20",
+        "17:50"
+      ],
+      "speaker": {
+        "img": "assets/img/speakers/hejunxian.jpg",
+        "name": "何俊贤",
+        "desc": "香港科技大学计算机系助理教授",
+        "url": "https://jxhe.github.io/"
+      },
+      "type": "专题报告",
+      "title": "大模型的事实正确性 —— 检测与评估",
+      "slides": "",
+      "recoding": "",
+      "desc": "随着大模型在现实中被越来越广泛的使用，其幻觉现象和由此引发的事实正确性问题成为了人们对大模型投入到实际生产中的最大担忧之一。幻觉现象使得大模型的安全性受到质疑，且在一些场景中会引发较大的风险。本报告将介绍我们在大模型的事实正确性方面的一些最新探索和思考，具体我们将阐述大模型的事实正确性检测方法以及大模型的自我校验能力，然后我们将探讨对事实检测工具的评估方法。"
+    }
+  ]
+}
