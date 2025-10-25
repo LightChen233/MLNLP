@@ -1,0 +1,83 @@
+{
+  "session_name": "Session 2: 多语言大模型 <span style=\"white-space: pre;word-break: break-word;\"> (8月31日 13:30-15:30) </span>",
+  "session_chair": "论坛主席：张雯轩 (阿里巴巴达摩院) &nbsp;&nbsp;&nbsp;&nbsp; 邓扬 (新加坡管理大学)",
+  "session_desc": "本次论坛将聚焦于大型语言模型在多语言场景下的最新研究与应用。四位来自学术界和工业界的杰出专家将探讨大模型的多语言能力，包括其在机器翻译和预训练模型中的应用，分析其在多语言场景下的安全隐患，并展示专为东南亚语言开发的大型语言模型SeaLLMs。此外，还将回顾多语言大模型的发展历程，讨论其在自然语言处理中的技术、应用及未来展望。通过这些主题，论坛旨在促进对多语言大模型的深入理解和应用，为语言技术的公平性和包容性贡献力量。",
+  "session_time": [
+    "13:30",
+    "15:30"
+  ],
+  "apple": "data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0ABEGIN:VTIMEZONE%0ATZID:Asia/Shanghai%0AX-LIC-LOCATION:Asia/Shanghai%0ABEGIN:STANDARD%0ATZOFFSETFROM:+0800%0ATZOFFSETTO:+0800%0ATZNAME:CST%0ADTSTART:19700101T000000%0AEND:STANDARD%0AEND:VTIMEZONE%0ABEGIN:VEVENT%0AURL:%0ADTSTART;TZID=Asia/Shanghai:20240831T133000%0ADTEND;TZID=Asia/Shanghai:20240831T153000%0ATZID:Asia/Shanghai%0ASUMMARY:%5BMLNLP%202024%5D%20Session%202:多语言大模型%0ADESCRIPTION:本次论坛将聚焦于大型语言模型在多语言场景下的最新研究与应用。四位来自学术界和工业界的杰出专家将探讨大模型的多语言能力，包括其在机器翻译和预训练模型中的应用，分析其在多语言场景下的安全隐患，并展示专为东南亚语言开发的大型语言模型SeaLLMs。此外，还将回顾多语言大模型的发展历程，讨论其在自然语言处理中的技术、应用及未来展望。通过这些主题，论坛旨在促进对多语言大模型的深入理解和应用，为语言技术的公平性和包容性贡献力量。%0ALOCATION:%0ABEGIN:VALARM%0ATRIGGER:-PT10M%0AACTION:DISPLAY%0ADESCRIPTION:Reminder%0AEND:VALARM%0ALOCATION:http://www.mlnlp.org/mlnlp2024/%0AEND:VEVENT%0AEND:VCALENDAR",
+  "google": "https://calendar.google.com/calendar/r/eventedit?dates=20240831T133000%2F20240831T153000&text=%5BMLNLP%202024%5D%20Session%202:多语言大模型&details=本次论坛将聚焦于大型语言模型在多语言场景下的最新研究与应用。四位来自学术界和工业界的杰出专家将探讨大模型的多语言能力，包括其在机器翻译和预训练模型中的应用，分析其在多语言场景下的安全隐患，并展示专为东南亚语言开发的大型语言模型SeaLLMs。此外，还将回顾多语言大模型的发展历程，讨论其在自然语言处理中的技术、应用及未来展望。通过这些主题，论坛旨在促进对多语言大模型的深入理解和应用，为语言技术的公平性和包容性贡献力量。&ctz=Asia%2FShanghai&location=http://www.mlnlp.org/mlnlp2024/",
+  "outlook": "https://outlook.live.com/owa?rru=addevent&startdt=2024-08-31T13:30:00&enddt=2024-08-31T15:30:00&subject=%5BMLNLP%202024%5D%20Session%202:多语言大模型&body=本次论坛将聚焦于大型语言模型在多语言场景下的最新研究与应用。四位来自学术界和工业界的杰出专家将探讨大模型的多语言能力，包括其在机器翻译和预训练模型中的应用，分析其在多语言场景下的安全隐患，并展示专为东南亚语言开发的大型语言模型SeaLLMs。此外，还将回顾多语言大模型的发展历程，讨论其在自然语言处理中的技术、应用及未来展望。通过这些主题，论坛旨在促进对多语言大模型的深入理解和应用，为语言技术的公平性和包容性贡献力量。&allday=false&path=%2Fcalendar%2Fview%2FMonth&location=http://www.mlnlp.org/mlnlp2024/",
+  "session_slido_url": "https://app.sli.do/event/9gt2fRq9C6APVkhuGpaSik",
+  "session_list": [
+    {
+      "time": [
+        "13:30",
+        "14:00"
+      ],
+      "speaker": {
+        "img": "assets/img/speakers/huangkaiyu.png",
+        "name": "黄锴宇",
+        "desc": "北京交通大学计算机科学与技术学院讲师",
+        "url": "https://scholar.google.com/citations?user=qAp-hS4AAAAJ/"
+      },
+      "type": "专题报告",
+      "title": "大模型的多语言能力探索与展望",
+      "slides": "",
+      "recoding": "",
+      "desc": "近年，以ChatGPT为代表的大规模语言模型（LLMs）飞速发展，在自然语言处理上展现出惊人的效果，引起了全球性关注，俨然成为了新一轮科技革命的重要驱动力量，深刻改变着人类生产、生活和学习方式，在社会发展中发挥着重要的作用。大模型正在深刻重构数字世界和现实世界，同时展示了在自然语言处理中具备一定多语言能力。为了减轻潜在的歧视，提高不同语言用户群体的整体可用性和可访问性，开发语言公平技术非常重要。为此，我们从多个角度对LLM在多语言场景中的应用进行了探索。首先我们重新思考了过去和现在关于预训练语言模型的研究之间的范式转换。然后，我们验证了关于LLM多语言性的几个观点，包括训练和推理方法、模型安全性、具有语言文化的多领域以及数据集的使用。我们还将讨论这些方面出现的主要挑战以及可能的解决方案。此外，我们将强调未来的研究方向，旨在进一步加强LLMs的多语言能力。该调查旨在帮助研究界解决多语言问题，并全面了解基于LLM的多语言自然语言处理的核心概念、关键技术和最新发展。"
+    },
+    {
+      "time": [
+        "14:00",
+        "14:30"
+      ],
+      "speaker": {
+        "img": "assets/img/speakers/wangwenxuan.png",
+        "name": "王文轩",
+        "desc": "香港中文大学博士",
+        "url": "https://jarviswang94.github.io/"
+      },
+      "type": "专题报告",
+      "title": "大模型在多语言场景下的安全隐患",
+      "slides": "",
+      "recoding": "",
+      "desc": "大语言模型的用户来自世界各地，用着各自不同的语言与大语言模型交流。为此，大模型的开发者们会使用多语言数据训练大模型，以增强大模型多语言能力。然而，受限于语料库和对齐数据资源的限制，训练数据在语言之间往往是不平衡的，比方说英文数据多，其他语言的数据少。这将会导致模型在多语言使用场景中存在一些安全隐患。讲者发现，一方面高资源语料的知识向低资源语言迁移能力不足，造成低资源语言上的安全性不足；另一方面，部分领域的知识盲目的从高资源语言向低资源语言迁移，造成了语言之间文化入侵的问题。本报告重点介绍了讲者在ACL 24上发表的两篇论文，从语言间安全对齐差异和跨语言文化入侵两个角度讨论了其在大模型在多语言场景上的思考。"
+    },
+    {
+      "time": [
+        "14:30",
+        "15:00"
+      ],
+      "speaker": {
+        "img": "assets/img/speakers/chenhaobang.png",
+        "name": "陈浩邦",
+        "desc": "阿里巴巴达摩院语言技术实验室算法专家",
+        "url": ""
+      },
+      "type": "专题报告",
+      "title": "SeaLLMs - 东南亚语言专属的大型语言模型",
+      "slides": "",
+      "recoding": "",
+      "desc": "大型语言模型在各种任务中都表现出非凡的能力，但它们的开发主要集中在英语和中文等高资源语言上，低资源语言则被忽视。为了解决这一差距，我们推出了 SeaLLMs，一个专为东南亚语言量身定制的大型语言模型。东南亚地区以其丰富的语言多样性为特点，缺乏足够的语言技术支持。SeaLLMs 3 旨在通过覆盖该地区使用的广泛语言来弥补这一差距，包括英语、中文、印尼语、越南语、泰语、他加禄语、马来语、缅甸语、高棉语、老挝语、泰米尔语和爪哇语。通过利用高效的语言增强技术和专门构建的指令微调数据集，SeaLLMs 3在显着降低训练成本的同时，保持了高性能和多功能性。我们的模型在世界知识、数学推理、翻译和指令遵循等任务中表现出色，在类似参数量的开源模型中达到了最先进的水平。此外，我们优先考虑了安全性和可靠性，既解决了普遍性问题，也考虑了文化特定的因素，并加入了减少幻觉的机制。这项工作强调了包容性人工智能的重要性，展示了先进的LLM能力可以惠及被忽视的语言和文化社区。"
+    },
+    {
+      "time": [
+        "15:00",
+        "15:30"
+      ],
+      "speaker": {
+        "img": "assets/img/speakers/qinlibo.png",
+        "name": "覃立波",
+        "desc": "中南大学特聘教授",
+        "url": "https://faculty.csu.edu.cn/qinlibo/zh_CN/index.htm"
+      },
+      "type": "专题报告",
+      "title": "多语言大模型技术、应用及展望",
+      "slides": "",
+      "recoding": "",
+      "desc": "全球有近7000种语言，多语言大模型能够将大模型的能力扩展到多语言场景，近年来受到了极大地关注。本次报告中，我们首先提出基于跨语言对齐的视角统一整理了多语言大模型的发展历程。接着介绍我们在该方向的部分探索。最后介绍多语言大模型领域的未来展望。"
+    }
+  ]
+}

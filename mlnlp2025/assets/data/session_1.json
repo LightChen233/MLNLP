@@ -1,0 +1,83 @@
+{
+	"session_name": "Session 1: 大模型智能体 <span style=\"white-space: pre;word-break: break-word;\"> (8月31日 09:00-11:00) </span>",
+	"session_chair": "论坛主席：钱忱 (清华大学) &nbsp;&nbsp;&nbsp;&nbsp; 从鑫 (清华大学)",
+	"session_desc": "随着大语言模型的发展和智能体应用的深入，本论坛将聚焦于大语言模型与智能体技术的最新研究与实践。论坛邀请了来自学术界和工业界的技术专家，将涵盖基于强化学习的决策智能体、大语言模型驱动的智能体、在信息不对称环境下智能体的应用、以及在医疗领域的创新应用。",
+	"session_time": [
+		"09:00",
+		"11:00"
+	],
+	"apple": "data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0ABEGIN:VTIMEZONE%0ATZID:Asia/Shanghai%0AX-LIC-LOCATION:Asia/Shanghai%0ABEGIN:STANDARD%0ATZOFFSETFROM:+0800%0ATZOFFSETTO:+0800%0ATZNAME:CST%0ADTSTART:19700101T000000%0AEND:STANDARD%0AEND:VTIMEZONE%0ABEGIN:VEVENT%0AURL:%0ADTSTART;TZID=Asia/Shanghai:20240831T090000%0ADTEND;TZID=Asia/Shanghai:20240831T110000%0ATZID:Asia/Shanghai%0ASUMMARY:%5BMLNLP%202025%5D%20Session%201:大模型智能体%0ADESCRIPTION:随着大语言模型的发展和智能体应用的深入，本论坛将聚焦于大语言模型与智能体技术的最新研究与实践。论坛邀请了来自学术界和工业界的技术专家，将涵盖基于强化学习的决策智能体、大语言模型驱动的智能体、在信息不对称环境下智能体的应用、以及在医疗领域的创新应用。%0ALOCATION:%0ABEGIN:VALARM%0ATRIGGER:-PT10M%0AACTION:DISPLAY%0ADESCRIPTION:Reminder%0AEND:VALARM%0ALOCATION:http://www.mlnlp.org/mlnlp2024/%0AEND:VEVENT%0AEND:VCALENDAR",
+	"google": "https://calendar.google.com/calendar/r/eventedit?dates=20240831T090000%2F20240831T110000&text=%5BMLNLP%202025%5D%20Session%201:大模型智能体&details=随着大语言模型的发展和智能体应用的深入，本论坛将聚焦于大语言模型与智能体技术的最新研究与实践。论坛邀请了来自学术界和工业界的技术专家，将涵盖基于强化学习的决策智能体、大语言模型驱动的智能体、在信息不对称环境下智能体的应用、以及在医疗领域的创新应用。&ctz=Asia%2FShanghai&location=http://www.mlnlp.org/mlnlp2024/",
+	"outlook": "https://outlook.live.com/owa?rru=addevent&startdt=2024-08-31T09:00:00&enddt=2024-08-31T11:00:00&subject=%5BMLNLP%202025%5D%20Session%201:大模型智能体&body=随着大语言模型的发展和智能体应用的深入，本论坛将聚焦于大语言模型与智能体技术的最新研究与实践。论坛邀请了来自学术界和工业界的技术专家，将涵盖基于强化学习的决策智能体、大语言模型驱动的智能体、在信息不对称环境下智能体的应用、以及在医疗领域的创新应用。&allday=false&path=%2Fcalendar%2Fview%2FMonth&location=http://www.mlnlp.org/mlnlp2024/",
+	"session_slido_url": "https://app.sli.do/event/bY7sFN3MAKzj4KK1WUmnZE",
+	"session_list": [
+		{
+			"time": [
+				"09:00",
+				"09:30"
+			],
+			"speaker": {
+				"img": "assets/img/speakers/maohangyu.png",
+				"name": "毛航宇",
+				"desc": "快手科技快意大模型知识增强研发负责人",
+				"url": "https://maohangyu.github.io/"
+			},
+			"type": "专题报告",
+			"title": "从决策(多)智能体到大语言模型(多)智能体",
+			"slides": "",
+			"recoding": "",
+			"desc": "以ChatGPT为代表的大语言模型是人工智能领域最火爆的研究热点之一，而AI Agent（智能体）是大语言模型最有潜力的应用方式之一。本报告系统梳理基于强化学习的决策智能体和多智能体研究，同时介绍基于大语言模型的AI Agent和Mulit-Agent研究，最后在不泄露公司机密的前提下分享一些在企业实践中的心得体会。"
+		},
+		{
+			"time": [
+				"09:30",
+				"10:00"
+			],
+			"speaker": {
+				"img": "assets/img/speakers/zhangzhong.png",
+				"name": "张众",
+				"desc": "清华大学自然语言处理实验室（THUNLP）博士后",
+				"url": "https://scholar.google.com/citations?hl=en&user=NX5TeR4AAAAJ"
+			},
+			"type": "专题报告",
+			"title": "大模型驱动的自主智能体",
+			"slides": "",
+			"recoding": "",
+			"desc": "通过海量数据的训练，大模型涌现出了强大的知识理解与推理规划能力。基于大模型所构建的智能体是一种高度自主的智能实体，能够根据给定目标自主地感知环境、规划任务和执行决策，在各个领域展现出了极大的应用潜力。此外，多个智能体通过相互沟通和协作形成复杂的智能群体，进一步涌现出更强大的AI智能。本报告将介绍构建大模型智能体的重要挑战、关键技术、应用实践和未来发展方向。"
+		},
+		{
+			"time": [
+				"10:00",
+				"10:30"
+			],
+			"speaker": {
+				"img": "assets/img/speakers/liuwei.png",
+				"name": "刘维",
+				"desc": "面壁智能研究员",
+				"url": ""
+			},
+			"type": "专题报告",
+			"title": "不对称环境下的大语言模型多智能体系统",
+			"slides": "",
+			"recoding": "",
+			"desc": "当前的大语言模型驱动的多智能体系统相关的研究多将群体视为一个整体，用于解决复杂的知识密集型任务。本报告将介绍多智能体系统的另一种范式，关注群体中不同的个体如何在信息不对称的环境下完成信息密集型任务。具体而言，我们构建了iAgents平台，在该平台上每个人类用户都拥有自己的个人智能体，能够作为人类用户的化身，在真实的社交关系与信息不对称的场景中去自主协作解决问题。本报告将介绍iAgents相关的平台构建、用于优化智能体处理信息不对称问题的信息导航技术，以及智能体在多个信息不对称benchmark上的表现。"
+		},
+		{
+			"time": [
+				"10:30",
+				"11:00"
+			],
+			"speaker": {
+				"img": "assets/img/speakers/maweizhi.png",
+				"name": "马为之",
+				"desc": "清华大学智能产业研究院助理研究员",
+				"url": "https://mawz12.github.io/"
+			},
+			"type": "专题报告",
+			"title": "面向医疗场景的可进化智能体研究尝试",
+			"slides": "",
+			"recoding": "",
+			"desc": "近年来，医疗场景已成为人工智能研究和应用的重要方向，我们主要开展大模型和智能体技术在医疗的研究应用，提升医疗场景的智能化水平。近期，我们开展了名为Agent Hospital的研究工作，通过模拟院内流程，结合大语言模型和少量知识能够实现较好的虚拟患者病历构建；基于这些虚拟病历，我们设计了虚拟医疗智能体的自主进化方法，不断从成功诊疗案例中总结经验、从失败案例中反思教训，在多个诊疗任务上实现准确率持续提升。在诊疗近万名虚拟病人后（人类医生大约需要2年时间），虚拟医生能够在MedQA数据集呼吸道疾病子集上超越当前最优模型。"
+		}
+	]
+}
