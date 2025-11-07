@@ -19,7 +19,7 @@
 			"speaker": {
 				"img": "assets/img/speakers/shaorui.jpg",
 				"name": "邵睿",
-				"desc": "哈尔滨工业大学（深圳）计算机科学与技术学院教授，博士生导师，入选国家级青年人才计划。主要研究方向为多模态大模型、具身智能，以第一作者/通讯身份发表CCF-A会议与IEEE/ACM汇刊等高水平论文近40篇。主持国家自然科学基金优青（海外）及青年项目、广东省自然科学基金面上项目、深圳市自然科学基金面上项目、中兴通讯产学研合作基金项目（机器人专项）、华为人才Funding等。担任计算机视觉顶级会议CVPR、BMVC领域主席，多媒体顶级会议ICMR Panel主席。",
+				"desc": "哈尔滨工业大学（深圳）计算机科学与技术学院教授，博士生导师",
 				"url": ""
 			},
 			"type": "专题报告",
@@ -36,7 +36,7 @@
 			"speaker": {
 				"img": "assets/img/speakers/chenruikang.jpg",
 				"name": "陈玉康",
-				"desc": "现任NVIDIA研究科学家（Research Scientist），博士毕业于香港中文大学。长期聚焦“LongAI”方向，涵盖长文本大语言模型、长视频理解、长序列推理、长视频生成等。已在国际顶级会议与期刊发表论文30余篇，多项成果获 ICLR、CVPR 等顶会口头报告；担任 AAAI 2026 领域主席。Google Scholar 引用累计超6000次，曾有论文入选 CVPR 2024 “最具影响力”榜单。代表性工作包括 VoxelNeXt、LongLoRA、LongVILA、Long-RL、LongLive 等；其主要贡献的多项开源项目在 GitHub 获得累计1,5000+ Star。曾获 Microsoft COCO 2019 目标检测与实例分割挑战赛冠军、CVPR 2023 ScanNet 3D 场景理解 Workshop 冠军，以及 nuScenes 2022 3D 多目标 LiDAR 跟踪榜单第一名。",
+				"desc": "现任NVIDIA研究科学家（Research Scientist）",
 				"url": ""
 			},
 			"type": "专题报告",
@@ -53,7 +53,7 @@
 			"speaker": {
 				"img": "assets/img/speakers/liruihuang.jpg",
 				"name": "李蕊煌",
-				"desc": "现任腾讯混元多模态模型部高级研究员，博士毕业于香港理工大学，主要研究方向是视频生成、图像生成、场景感知和理解等，已在CVPR、ICCV、ECCV等国际顶级会议和期刊发表论文30余篇，并担任多个视觉领域顶级会议及期刊的审稿人。李蕊煌作为核心技术负责人，主导研发并发布了首个工业级智能游戏创作平台Hunyuan-Game，该平台深度融合基于多模态信息的生成式AI与游戏美术生产流程，集成了高保真图像生成、动态视频合成、风格迁移、3D场景理解与特效自动化生成等多项关键技术，覆盖从概念原画、角色设计、场景构建到动效制作等游戏美术链路的核心环节。Hunyuan-Game不仅显著提升了游戏内容生产的效率与创意边界，还成功赋能下游工业应用，获得了业界与学术界的广泛关注。",
+				"desc": "现任腾讯混元多模态模型部高级研究员",
 				"url": ""
 			},
 			"type": "专题报告",
@@ -70,7 +70,7 @@
 			"speaker": {
 				"img": "assets/img/speakers/wangbenyou.jpg",
 				"name": "王本友",
-				"desc": "香港中文大学（深圳）数据科学学院助理教授、博士生导师、校长青年教授；深圳河套学院双聘导师。研究方向为大语言模型（医疗）应用、多模态大模型、AI4Math和Human-agent interaction，曾获得了SIGIR 2017 Best Paper Award Honorable Mention, NAACL 2019 Best Explainable NLP Paper，NLPCC 2022 Best Paper, Best Paper in ICLR 2025 Financial AI workshop，担任了 NLPCC 2023 的宣传主席和 EMNLP 2023 的网站主席。他曾获得了华为火花奖、腾讯犀牛鸟项目、华为AI百校计划和CCF滴滴盖亚学者项目的资助，开发的华佗GPT系列大模型被部署到了深圳数十家公立医院和数百家社康医院，和华为诺亚的联合团队获得第二届AI奥林匹克数学竞赛AIMO 2的金牌，相关工作受到了Nature、CCTV、金融时报（Financial Times）、环球时报、红星新闻、南方都市报、深圳卫视、深圳市卫健委、深圳市龙岗区政府的关注和报道。",
+				"desc": "香港中文大学（深圳）数据科学学院助理教授、博士生导师、校长青年教授；深圳河套学院双聘导师",
 				"url": ""
 			},
 			"type": "专题报告",

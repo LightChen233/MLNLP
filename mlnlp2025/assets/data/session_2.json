@@ -19,7 +19,7 @@
       "speaker": {
         "img": "assets/img/speakers/baoshilong.jpg",
         "name": "包世龙",
-        "desc": "中国科学院大学博士后/特别研究助理，研究方向为机器学习、人工智能基础理论与安全，在 CCF-A 类期刊/会议上发表论文 20余篇 (一作论文 7 篇)，其中TPAMI 8 篇 (IF: 18.6，一作 TPAMI 论文 4 篇)等。先后获得“ACM中国SigMM优博（共3人）”“北京图象图形学学会优博（共5人）”、“中国科学院百篇优博”等荣誉；主持青年基金（C类）、国家资助博士后研究人员计划（B档）、博士后面上资助以及中科院特别研究助理资助项目等。",
+        "desc": "中国科学院大学博士后/特别研究助理",
         "url": ""
       },
       "type": "专题报告",
@@ -36,7 +36,7 @@
       "speaker": {
         "img": "assets/img/speakers/cuishiyao.jpg",
         "name": "崔诗尧",
-        "desc": "清华大学CoAI课题组博士后，入选国家资助博士后研究人员计划，主持国家自然科学青年基金C类、博士后面上基金项目，主要研究方向的大模型的安全评估与防御，在ACL、SIGIR、ACM MM、TASLP等顶级会议和期刊发表论文二十余篇，多次在国际国内大模型安全竞赛中获得第一名的成绩。",
+        "desc": "清华大学CoAI课题组博士后",
         "url": ""
       },
       "type": "专题报告",
@@ -53,7 +53,7 @@
       "speaker": {
         "img": "assets/img/speakers/jiaxiaojun.jpg",
         "name": "加小俊",
-        "desc": "Xiaojun Jia is a Research Fellow at Nanyang Technological University (NTU), Singapore. He received his Ph.D. in Computer Application Technology from the University of Chinese Academy of Sciences in 2023. His research interests lie in trustworthy artificial intelligence, with a particular focus on adversarial machine learning, backdoor learning, and large language model (LLM) security.Dr. Jia has published over 40 papers in premier AI and security venues such as ICML, NeurIPS, ICLR, CVPR, ICCV, IEEE TPAMI, IEEE TIFS, and IEEE TIP. He is the first author of 10 papers (including 2 in TPAMI and 1 CVPR Oral) and the corresponding author of 14 papers (including 1 in TPAMI). His research has been cited more than 2,000 times on Google Scholar and has earned top-three awards in multiple international adversarial AI competitions. is work has been successfully applied at Tencent, Alibaba, NSFOCUS, and Scantist, and has supported the development of the AI data security platform at the Third Research Institute of the Ministry of Public Security in China, receiving formal recognition. He also contributed as a core member to the content safety testing of mainstream commercialized LLMs in China. n academic service, Dr. Jia serves as an Associate Editor of Pattern Recognition, Consulting Area Editor of IEEE Transactions on Information Forensics and Security (TIFS), and Area Chair for AAAI-26 AIA. He also reviews for leading journals such as TPAMI, IJCV, TIFS, and TDSC. Beyond his research, he actively contributes to the academic community, co-initiating the 2024 Global LLM Security Challenge (jointly with AI Singapore) and the DataCon Red-Teaming Competition. ",
+        "desc": "Research Fellow at Nanyang Technological University (NTU), Singapore",
         "url": "https://jiaxiaojunqaq.github.io/"
       },
       "type": "专题报告",
@@ -70,7 +70,7 @@
       "speaker": {
         "img": "assets/img/speakers/duanranjie.jpg",
         "name": "段然杰",
-        "desc": "现为清华大学与阿里巴巴集团联合培养博士后（2023年至今），师从朱军教授，薛晖博士，聚焦可信人工智能前沿研究。2023年起担任阿里巴巴系列大模型红队负责人，主导及开发各种红队测试方法，用于测试阿里系大模型（通义千问、淘宝星辰等）安全性、可靠性等等，并在此期间发表多篇顶级会议论文。2025年起领导阿里巴巴安全部生蚝系列模型，提出在大模型治理时模型和人类的协同作用，并共同构建向善价值观，提出的模型理念“知无不言言必向善”，并将相应技术应用在阿里系模型中。 已在计算机视觉与机器学习领域顶级会议CVPR、ICCV、NeurIPS、ICLR及旗舰期刊TPAMI、TIFS等发表论文20余篇，其中多篇入选Oral/Spotlight报告。持续为CVPR、ICLR等顶会及TPAMI等SCI一区期刊提供学术评议。",
+        "desc": "清华大学与阿里巴巴集团联合培养博士后（2023年至今）",
         "url": ""
       },
       "type": "专题报告",
