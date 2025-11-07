@@ -36,7 +36,7 @@
 			"speaker": {
 				"img": "assets/img/speakers/chenruikang.jpg",
 				"name": "陈玉康",
-				"desc": "现任NVIDIA研究科学家（Research Scientist）",
+				"desc": "NVIDIA研究科学家（Research Scientist）",
 				"url": ""
 			},
 			"type": "专题报告",
@@ -53,7 +53,7 @@
 			"speaker": {
 				"img": "assets/img/speakers/liruihuang.jpg",
 				"name": "李蕊煌",
-				"desc": "现任腾讯混元多模态模型部高级研究员",
+				"desc": "腾讯混元多模态模型部高级研究员",
 				"url": ""
 			},
 			"type": "专题报告",
@@ -70,7 +70,7 @@
 			"speaker": {
 				"img": "assets/img/speakers/wangbenyou.jpg",
 				"name": "王本友",
-				"desc": "香港中文大学（深圳）数据科学学院助理教授、博士生导师、校长青年教授；深圳河套学院双聘导师",
+				"desc": "香港中文大学（深圳）数据科学学院助理教授、博士生导师",
 				"url": ""
 			},
 			"type": "专题报告",
