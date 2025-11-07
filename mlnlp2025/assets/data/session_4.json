@@ -19,7 +19,7 @@
       "speaker": {
         "img": "assets/img/speakers/liuweiwen.png",
         "name": "刘卫文",
-        "desc": "现任上海交通大学计算机学院副教授，曾任华为诺亚方舟实验室主任研究员。2020年博士毕业于香港中文大学。主要研究方向包括大模型智能体、工具调用、信息检索。已在国际顶级会议和期刊发表论文80余篇，研究成果产出专利12项，并荣获DLP-RecSys最佳论文奖。所开发的ToolACE系列开源模型在大模型工具调用国际权威榜单BFCL中同量级排名第一，HuggingFace下载量50万，全球领先。担任GenRec-WWW 2024, GenRec-CIKM 2023, DLP-RecSys 2023研讨会主席，长期担任 ICLR, KDD, SIGIR等会议及期刊领域主席或审稿人。",
+        "desc": "上海交通大学计算机学院副教授",
         "url": ""
       },
       "type": "专题报告",
@@ -36,7 +36,7 @@
       "speaker": {
         "img": "assets/img/speakers/chenhaotian.png",
         "name": "陈颢天",
-        "desc": "博士毕业于复旦大学计算机科学与技术学院，目前在清华大学自然语言处理实验室任博士后，研究方向为大语言模型智能体与工具学习。获清华大学水木学者称号，博后面上资助，国资博士后计划C档等。推出的MiniCPM4-MCP智能体模型累积下载量5000余次，RD-Agent智能体在开源社区GitHub获8200余次星标。",
+        "desc": "清华大学自然语言处理实验室任博士后",
         "url": ""
       },
       "type": "专题报告",
@@ -53,7 +53,7 @@
       "speaker": {
         "img": "assets/img/speakers/zhangxi.png",
         "name": "张熙",
-        "desc": "阿里巴巴通义实验室高级算法工程师，负责多模态智能体Mobile-Agent、PC-Agent等工作。博士毕业于中国科学院自动化研究所，在国际期刊和会议TPAMI/TIP/NeurIPS/CVPR/ACM MM/TMM等发表论文十余篇，曾获得CCL BEST Demo、China MM BEST Paper、VCIP BEST Student Paper、中科院院长奖等，担任多个顶级会议与期刊Reviewer，并在开源社区Github获得6k star。",
+        "desc": "阿里巴巴通义实验室高级算法工程师",
         "url": ""
       },
       "type": "专题报告",
@@ -70,7 +70,7 @@
       "speaker": {
         "img": "assets/img/speakers/gaoxin.png",
         "name": "高莘",
-        "desc": "电子科技大学研究员、博士生导师、四川省青年特聘专家。主要研究方向为预训练语言模型、大模型多智能体系统和工具学习。在国际顶级会议期刊发表文章50余篇。目前担任中国中文信息学会青年工作委员会执行委员、信息检索专委会通讯委员、CCF自然语言处理专委委员。担任自然语言处理国际顶级会议ACL领域主席、IJCAI高级程序委员会委员等。获得中国电子学会科技进步三等奖（排名第三）。主持国家自然科学基金青年基金、重点项目课题等科研项目。",
+        "desc": "电子科技大学研究员、博士生导师、四川省青年特聘专家",
         "url": ""
       },
       "type": "专题报告",
