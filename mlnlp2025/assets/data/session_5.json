@@ -19,7 +19,7 @@
       "speaker": {
         "img": "assets/img/speakers/chenxu.png",
         "name": "陈旭",
-        "desc": "陈旭，中国人民大学高瓴人工智能学院预聘副教授，博士生导师，。主要研究方向为大语言模型、强化学习、信息检索和因果推断等，发表高水平论文80余篇，谷歌引用1万余次。带领团队撰写大模型智能体领域的早期综述《A Survey on Large Language Model based Autonomous Agents》，构建“大模型+社会科学”模拟仿真平台“玉兰-万象”（见https://ruc-gsai.github.io/YuLan-OneSim/）。荣获多项著名国际会议的最佳论文奖或提名（TheWebConf 2018，CIKM 2022 Resource，SIGIR-AP 2023， MM Asia 2024， AIRS 2017），荣获 CCF 自然科学二等奖，CIPS 钱伟长青年创新奖，ACM-北京新星奖等荣誉。长期担任NeurIPS、ICLR等会议领域主席，担任期刊ACM Transactions on Recommender Systems的编委。",
+        "desc": "中国人民大学高瓴人工智能学院预聘副教授，博士生导师，。主要研究方向为大语言模型、强化学习、信息检索和因果推断等，发表高水平论文80余篇，谷歌引用1万余次。带领团队撰写大模型智能体领域的早期综述《A Survey on Large Language Model based Autonomous Agents》，构建“大模型+社会科学”模拟仿真平台“玉兰-万象”（见https://ruc-gsai.github.io/YuLan-OneSim/）。荣获多项著名国际会议的最佳论文奖或提名（TheWebConf 2018，CIKM 2022 Resource，SIGIR-AP 2023， MM Asia 2024， AIRS 2017），荣获 CCF 自然科学二等奖，CIPS 钱伟长青年创新奖，ACM-北京新星奖等荣誉。长期担任NeurIPS、ICLR等会议领域主席，担任期刊ACM Transactions on Recommender Systems的编委。",
         "url": ""
       },
       "type": "专题报告",
@@ -43,7 +43,7 @@
       "title": "MemAgent: Reshaping Long-Context LLM with Multi-Conv RL based Memory Agent",
       "slides": "",
       "recoding": "",
-      "desc": ""
+      "desc": "Despite improvements by length extrapolation, efficient attention and memory modules, handling infinitely long documents with linear complexity without performance degradation during extrapolation remains the ultimate challenge in long-text processing. We directly optimize for long-text tasks in an end-to-end fashion and introduce a novel agent workflow, MemAgent, which reads text in segments and updates the memory using an overwrite strategy. We extend the DAPO algorithm to facilitate training via independent-context multi-conversation generation. MemAgent has demonstrated superb long-context capabilities, being able to extrapolate from an 8K context trained on 32K text to a 3.5M QA task with performance loss < 5% and achieves 95%+ in 512K RULER test."
     },
     {
       "time": [
@@ -60,7 +60,7 @@
       "title": "智能始于记忆：打造基于MemOS的记忆管理新范式",
       "slides": "",
       "recoding": "",
-      "desc": ""
+      "desc": "智能时代，记忆为先。MemOS以创新分层架构与主动记忆机制，颠覆传统大模型的局限，实现跨任务、跨场景的连续理解与个性化交互。它不仅重塑AI的认知边界，更引领智能应用迈向高效、精准、可进化的新纪元。"
     },
     {
       "time": [
@@ -77,7 +77,7 @@
       "title": "经验记忆赋能大模型高效深度思考",
       "slides": "",
       "recoding": "",
-      "desc": ""
+      "desc": "在大模型提升知识搜索和推理能力并支撑长期个性化对话的场景中，需实现检索推理精准高效与交互记忆持久连贯的统一。现有方案难以兼顾这一需求：一方面，依赖强化学习（RL）的深度思考模型，因缺乏推理记忆能力，不仅对无需外部辅助的查询冗余调用工具、干扰生成效率，还会因缺乏记忆指导进一步降低推理性能；另一方面，长期对话中，大模型受固定上下文窗口限制，易出现记忆断裂、事实不一致；且现有记忆提升方式缺乏统一管理架构，无法与深度推理能力协同，最终导致推理效率与记忆质量难以两全。我们构建首个记忆操作系统 MemoryOS，通过短期 - 中期 - 长期分层存储架构及四大记忆管理功能模块，实现全链路记忆管控。进一步提出经验记忆增强的 RL 深度思考框架，融入效率奖励与可复用经验记忆，在保障深度搜索质量的同时避免长对话记忆断裂，最终为大模型构建一套兼顾知识推理效率与个性化交互记忆的完整技术实践路径。"
     }
   ]
 }
