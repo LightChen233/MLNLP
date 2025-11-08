@@ -1,100 +1,83 @@
 {
-  "session_name": "Session 6: 具身智能 <span style=\"white-space: pre;word-break: break-word;\"> (11月30日 15:30-18:00) </span>",
-  "session_chair": "论坛主席：穆尧 (上海交通大学计算机学院先进人工智能研究所)  &nbsp;&nbsp;&nbsp;&nbsp; 陈逸伦 (上海人工智能实验室具身智能中心)",
-  "session_desc": "具身智能作为人工智能与机器人技术融合的前沿领域,正在经历从感知到操作、从单一任务到通用智能的重要变革。本论坛汇聚具身智能领域的杰出青年学者,围绕视触觉感知、大模型驱动的操作框架、强化学习、空间规划以及场景推理等核心议题展开深入探讨。论坛将呈现从底层传感器融合到高层认知决策的完整技术链条,展示具身智能在复杂环境下的感知、理解、规划和执行能力。与会专家将分享基于大模型的具身智能最新进展,探讨如何构建具有通用性和泛化能力的机器人系统,推动具身智能从实验室走向真实世界应用。本论坛旨在促进学术界与产业界的交流合作,为具身智能的未来发展描绘清晰路径,助力实现真正意义上的通用机器人智能。",
+  "session_name": "Session 5: 大模型记忆 <span style=\"white-space: pre;word-break: break-word;\"> (11月30日 13:00-15:00) </span>",
+  "session_chair": "论坛主席：张宁豫 (浙江大学) &nbsp;&nbsp;&nbsp;&nbsp; 庞亮 (中国科学院计算技术研究所)",
+  "session_desc": "本次论坛聚焦于大模型（智能体）在记忆机制与知识更新能力方面的前沿研究与工程实践，来自学术界和产业界的四位学者将探讨大模型智能体记忆机制、方法与应用。通过思想碰撞，论坛旨在促进对大模型（智能体）记忆的深入理解和应用，为构建具备持续学习能力、长期记忆与自我进化的人工智能贡献力量。",
   "session_time": [
-    "15:30",
-    "17:30"
+    "13:00",
+    "15:00"
   ],
-  "apple": "data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0ABEGIN:VTIMEZONE%0ATZID:Asia/Shanghai%0AX-LIC-LOCATION:Asia/Shanghai%0ABEGIN:STANDARD%0ATZOFFSETFROM:+0800%0ATZOFFSETTO:+0800%0ATZNAME:CST%0ADTSTART:19700101T000000%0AEND:STANDARD%0AEND:VTIMEZONE%0ABEGIN:VEVENT%0AURL:%0ADTSTART;TZID=Asia/Shanghai:20251130T153000%0ADTEND;TZID=Asia/Shanghai:20251130T180000%0ATZID:Asia/Shanghai%0ASUMMARY:%5BMLNLP%202025%5D%20Session%206%20具身智能%0ADESCRIPTION:具身智能作为人工智能与机器人技术融合的前沿领域,正在经历从感知到操作、从单一任务到通用智能的重要变革。本论坛汇聚具身智能领域的杰出青年学者,围绕视触觉感知、大模型驱动的操作框架、强化学习、空间规划以及场景推理等核心议题展开深入探讨。论坛将呈现从底层传感器融合到高层认知决策的完整技术链条,展示具身智能在复杂环境下的感知、理解、规划和执行能力。与会专家将分享基于大模型的具身智能最新进展,探讨如何构建具有通用性和泛化能力的机器人系统,推动具身智能从实验室走向真实世界应用。本论坛旨在促进学术界与产业界的交流合作,为具身智能的未来发展描绘清晰路径,助力实现真正意义上的通用机器人智能。%0ALOCATION:%0ABEGIN:VALARM%0ATRIGGER:-PT10M%0AACTION:DISPLAY%0ADESCRIPTION:Reminder%0AEND:VALARM%0ALOCATION:http://www.mlnlp.org/mlnlp2025/%0AEND:VEVENT%0AEND:VCALENDAR",
-  "google": "https://calendar.google.com/calendar/r/eventedit?dates=20251130T153000%2F20251130T180000&text=%5BMLNLP%202025%5D%20Session%206%20具身智能&details=具身智能作为人工智能与机器人技术融合的前沿领域,正在经历从感知到操作、从单一任务到通用智能的重要变革。本论坛汇聚具身智能领域的杰出青年学者,围绕视触觉感知、大模型驱动的操作框架、强化学习、空间规划以及场景推理等核心议题展开深入探讨。论坛将呈现从底层传感器融合到高层认知决策的完整技术链条,展示具身智能在复杂环境下的感知、理解、规划和执行能力。与会专家将分享基于大模型的具身智能最新进展,探讨如何构建具有通用性和泛化能力的机器人系统,推动具身智能从实验室走向真实世界应用。本论坛旨在促进学术界与产业界的交流合作,为具身智能的未来发展描绘清晰路径,助力实现真正意义上的通用机器人智能。&ctz=Asia%2FShanghai&location=http://www.mlnlp.org/mlnlp2025/",
-  "outlook": "https://outlook.live.com/owa?rru=addevent&startdt=2025-11-30T15:30:00&enddt=2025-11-30T18:00:00&subject=%5BMLNLP%202025%5D%20Session%206%20具身智能&body=具身智能作为人工智能与机器人技术融合的前沿领域,正在经历从感知到操作、从单一任务到通用智能的重要变革。本论坛汇聚具身智能领域的杰出青年学者,围绕视触觉感知、大模型驱动的操作框架、强化学习、空间规划以及场景推理等核心议题展开深入探讨。论坛将呈现从底层传感器融合到高层认知决策的完整技术链条,展示具身智能在复杂环境下的感知、理解、规划和执行能力。与会专家将分享基于大模型的具身智能最新进展,探讨如何构建具有通用性和泛化能力的机器人系统,推动具身智能从实验室走向真实世界应用。本论坛旨在促进学术界与产业界的交流合作,为具身智能的未来发展描绘清晰路径,助力实现真正意义上的通用机器人智能。&allday=false&path=%2Fcalendar%2Fview%2FMonth&location=http://www.mlnlp.org/mlnlp2025/",
+  "apple": "data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0ABEGIN:VTIMEZONE%0ATZID:Asia/Shanghai%0AX-LIC-LOCATION:Asia/Shanghai%0ABEGIN:STANDARD%0ATZOFFSETFROM:+0800%0ATZOFFSETTO:+0800%0ATZNAME:CST%0ADTSTART:19700101T000000%0AEND:STANDARD%0AEND:VTIMEZONE%0ABEGIN:VEVENT%0AURL:%0ADTSTART;TZID=Asia/Shanghai:20251130T130000%0ADTEND;TZID=Asia/Shanghai:20251130T150000%0ATZID:Asia/Shanghai%0ASUMMARY:%5BMLNLP%202025%5D%20Session%205%20大模型记忆%0ADESCRIPTION:本次论坛聚焦于大模型（智能体）在记忆机制与知识更新能力方面的前沿研究与工程实践，来自学术界和产业界的四位学者将探讨大模型智能体记忆机制、方法与应用。通过思想碰撞，论坛旨在促进对大模型（智能体）记忆的深入理解和应用，为构建具备持续学习能力、长期记忆与自我进化的人工智能贡献力量。 %0ALOCATION:%0ABEGIN:VALARM%0ATRIGGER:-PT10M%0AACTION:DISPLAY%0ADESCRIPTION:Reminder%0AEND:VALARM%0ALOCATION:http://www.mlnlp.org/mlnlp2025/%0AEND:VEVENT%0AEND:VCALENDAR",
+  "google": "https://calendar.google.com/calendar/r/eventedit?dates=20251130T130000%2F20251130T150000&text=%5BMLNLP%202025%5D%20Session%205%20大模型记忆&details=本次论坛聚焦于大模型（智能体）在记忆机制与知识更新能力方面的前沿研究与工程实践，来自学术界和产业界的四位学者将探讨大模型智能体记忆机制、方法与应用。通过思想碰撞，论坛旨在促进对大模型（智能体）记忆的深入理解和应用，为构建具备持续学习能力、长期记忆与自我进化的人工智能贡献力量。&ctz=Asia%2FShanghai&location=http://www.mlnlp.org/mlnlp2025/",
+  "outlook": "https://outlook.live.com/owa?rru=addevent&startdt=2025-11-30T13:00:00&enddt=2025-11-30T15:00:00&subject=%5BMLNLP%202025%5D%20Session%205%20大模型记忆&body=本次论坛聚焦于大模型（智能体）在记忆机制与知识更新能力方面的前沿研究与工程实践，来自学术界和产业界的四位学者将探讨大模型智能体记忆机制、方法与应用。通过思想碰撞，论坛旨在促进对大模型（智能体）记忆的深入理解和应用，为构建具备持续学习能力、长期记忆与自我进化的人工智能贡献力量。&allday=false&path=%2Fcalendar%2Fview%2FMonth&location=http://www.mlnlp.org/mlnlp2025/",
   "session_slido_url": "",
   "session_list": [
     {
       "time": [
-        "15:30",
-        "16:00"
+        "13:00",
+        "13:30"
       ],
       "speaker": {
-        "img": "assets/img/speakers/lishoujie.png",
-        "name": "李寿杰",
-        "desc": "南洋理工大学博士后",
+        "img": "assets/img/speakers/chenxu.png",
+        "name": "陈旭",
+        "desc": "中国人民大学高瓴人工智能学院预聘副教授，博士生导师",
         "url": ""
       },
       "type": "专题报告",
-      "title": "基于视触觉感知的机器人识别及抓取研究",
+      "title": "大模型智能体记忆机制及其应用",
       "slides": "",
       "recoding": "",
-      "desc": "本报告将重点探讨了视触觉感知技术在机器人抓取和识别中的应用。基于一种创新的视触觉感知技术方案，通过触觉传感器、视触融合抓取算法和实际应用三个层面，解决复杂背景和高动态场景中的机器人抓取难题。核心创新在于将视触觉感知与阻塞抓取技术结合，利用折射率匹配原理突破阻塞物对检测的限制，并设计了背负式打捞设备应对烟雾、黑暗等低可见度环境下的物体搜索和抓取问题，显著提升了机器人在极端场景中的探索能力。"
+      "desc": "随着大语言模型（LLM）的快速发展，基于大模型的智能体（AI Agents）在社会模拟、人机交互与自动决策等任务中展现出广阔潜力。智能体的核心挑战之一在于如何实现 长期、动态且可控的记忆机制，以支持其在复杂环境中的连续推理与适应能力。本报告聚焦大模型智能体的个性化记忆机制及其在社会模拟中的应用。通过引入短期、长期与情境记忆的结合，智能体能够在复杂交互中保持连续性与个体差异，支持更真实的人类行为建模。我们展示了记忆机制在群体协作、社会行为演化及治理实验平台中的应用，验证其在提升智能体一致性、个性化响应与社会模拟可信度方面的价值。"
     },
     {
       "time": [
-        "16:00",
-        "16:30"
+        "13:30",
+        "14:00"
       ],
       "speaker": {
-        "img": "assets/img/speakers/wangpengwei.png",
-        "name": "王鹏伟",
-        "desc": "北京智源人工智能研究院具身智能大模型负责人",
+        "img": "assets/img/speakers/zhouhao.png",
+        "name": "周浩",
+        "desc": "清华大学智能产业研究院副研究员",
         "url": ""
       },
       "type": "专题报告",
-      "title": "具身大小脑操作框架与具身大脑模型构建",
+      "title": "MemAgent: Reshaping Long-Context LLM with Multi-Conv RL based Memory Agent",
       "slides": "",
       "recoding": "",
-      "desc": "TBD"
+      "desc": "Despite improvements by length extrapolation, efficient attention and memory modules, handling infinitely long documents with linear complexity without performance degradation during extrapolation remains the ultimate challenge in long-text processing. We directly optimize for long-text tasks in an end-to-end fashion and introduce a novel agent workflow, MemAgent, which reads text in segments and updates the memory using an overwrite strategy. We extend the DAPO algorithm to facilitate training via independent-context multi-conversation generation. MemAgent has demonstrated superb long-context capabilities, being able to extrapolate from an 8K context trained on 32K text to a 3.5M QA task with performance loss < 5% and achieves 95%+ in 512K RULER test."
     },
     {
       "time": [
-        "16:30",
-        "17:00"
+        "14:00",
+        "14:30"
       ],
       "speaker": {
-        "img": "assets/img/speakers/tanghongyao.png",
-        "name": "汤宏垚",
-        "desc": "天津大学智能与计算学部副研究员",
+        "img": "assets/img/speakers/tangbo.png",
+        "name": "唐波",
+        "desc": "记忆张量（上海）科技有限公司应用算法负责人",
         "url": ""
       },
       "type": "专题报告",
-      "title": "面向大规模通用具身智能的强化学习研究",
+      "title": "智能始于记忆：打造基于MemOS的记忆管理新范式",
       "slides": "",
       "recoding": "",
-      "desc": "具身智能在多模态大模型、高质量数据获取管线等关键技术的驱动下迅猛发展，展现出巨大的潜力与价值。区别于从高质量示教数据中进行模仿学习，强化学习作为通用的序贯决策优化范式，其潜力在具身智能研究中尚未得到充分探索与验证。本报告面向通过强化学习实现大规模通用具身智能这一愿景，围绕强化学习中环境、奖励、策略三个元素方面探讨关键技术。首先，本报告介绍基于大模型的多样化具身任务场景生成方法；其次，介绍基于大语言模型与演化强化学习的自动奖励函数设计方法；随后，介绍面向具身泛化推理与操控的强化学习后训练微调方法。最后，本报告对基于强化学习的大规模通用具身智能的未来研究方向进行展望与讨论。"
+      "desc": "智能时代，记忆为先。MemOS以创新分层架构与主动记忆机制，颠覆传统大模型的局限，实现跨任务、跨场景的连续理解与个性化交互。它不仅重塑AI的认知边界，更引领智能应用迈向高效、精准、可进化的新纪元。"
     },
     {
       "time": [
-        "17:00",
-        "17:30"
+        "14:30",
+        "15:00"
       ],
       "speaker": {
-        "img": "assets/img/speakers/chenyilun.png",
-        "name": "陈逸伦",
-        "desc": "上海人工智能实验室具身智能中心青年研究员",
+        "img": "assets/img/speakers/baiting.png",
+        "name": "白婷",
+        "desc": "北京邮电大学计算机学院（国家示范性软件学院）副教授",
         "url": ""
       },
       "type": "专题报告",
-      "title": "空间规划引导的具身操作大模型InternVLA-M1",
+      "title": "经验记忆赋能大模型高效深度思考",
       "slides": "",
       "recoding": "",
-      "desc": "TBD"
-    },
-    {
-      "time": [
-        "17:30",
-        "18:00"
-      ],
-      "speaker": {
-        "img": "assets/img/speakers/nifei.png",
-        "name": "倪飞",
-        "desc": "帝国理工学院计算机系博后研究员",
-        "url": ""
-      },
-      "type": "专题报告",
-      "title": "面向复杂长序任务的具身场景推理研究",
-      "slides": "",
-      "recoding": "",
-      "desc": "本报告聚焦具身智能在复杂长序任务中的全链路挑战，系统性介绍三个核心工作，构建从“理解对齐”、“拆解执行”到“综合评测”的技术闭环。首先，介绍多模态理解对齐工作，专注于提升模型对长时序任务的理解能力，为后续规划提供可靠的语义基础。其次，介绍任务拆解与执行框架，该框架结合大模型推理与生成模型的生成能力，实现复杂指令的可靠分解与高效执行。最后，重点介绍一个由十余家机构联合发起的全新具身大脑评测平台，该平台旨在建立统一的评测基准，并梳理了七大关键具身能力项，以评估和推动具身智能的发展。"
+      "desc": "在大模型提升知识搜索和推理能力并支撑长期个性化对话的场景中，需实现检索推理精准高效与交互记忆持久连贯的统一。现有方案难以兼顾这一需求：一方面，依赖强化学习（RL）的深度思考模型，因缺乏推理记忆能力，不仅对无需外部辅助的查询冗余调用工具、干扰生成效率，还会因缺乏记忆指导进一步降低推理性能；另一方面，长期对话中，大模型受固定上下文窗口限制，易出现记忆断裂、事实不一致；且现有记忆提升方式缺乏统一管理架构，无法与深度推理能力协同，最终导致推理效率与记忆质量难以两全。我们构建首个记忆操作系统 MemoryOS，通过短期 - 中期 - 长期分层存储架构及四大记忆管理功能模块，实现全链路记忆管控。进一步提出经验记忆增强的 RL 深度思考框架，融入效率奖励与可复用经验记忆，在保障深度搜索质量的同时避免长对话记忆断裂，最终为大模型构建一套兼顾知识推理效率与个性化交互记忆的完整技术实践路径。"
     }
   ]
 }
