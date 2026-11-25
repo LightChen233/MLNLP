@@ -1,0 +1,97 @@
+{
+	"session_name": "Session 3: 大模型智能体 <span style=\"white-space: pre;word-break: break-word;\"> (12月26日 15:30-17:30) </span>",
+	"session_chair": "论坛主席：钱忱 (上海交通大学) &nbsp;&nbsp;&nbsp;&nbsp; 张众 (电子科技大学)",
+	"session_chairs": [
+		{
+			"name": "钱忱",
+			"affiliation": "上海交通大学",
+			"img": "assets/img/qianchen.jpg",
+			"title": "博士生导师"
+		},
+		{
+			"name": "张众",
+			"affiliation": "电子科技大学",
+			"img": "assets/img/zhangzhong.jpg",
+			"title": "讲师"
+		}
+	],
+	"session_desc": "MLNLP 2026 第五届机器学习算法与自然语言处理大会“大模型智能体”分论坛将于12月26日（周六）下午15:30—17:30线上举行，邀请来自阿里巴巴等产业界以及四川大学、中国科学技术大学、北京航空航天大学等学术界的四位讲者，围绕基于强化学习的开放域智能体自进化框架与ArenaRL、大模型智能体驱动的工业经验沉淀与复用、个性化智能体助理、自进化代码大模型和智能体等方向展开报告，涵盖智能体强化学习、经验工程、个性化建模与代码自进化等核心技术及开放域规划、工业运维、个人助理和软件开发等应用场景，旨在促进学术界与产业界在智能体领域的交流与合作。",
+	"session_time": [
+		"15:30",
+		"17:30"
+	],
+	"apple": "data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0ABEGIN:VTIMEZONE%0ATZID:Asia/Shanghai%0AX-LIC-LOCATION:Asia/Shanghai%0ABEGIN:STANDARD%0ATZOFFSETFROM:+0800%0ATZOFFSETTO:+0800%0ATZNAME:CST%0ADTSTART:19700101T000000%0AEND:STANDARD%0AEND:VTIMEZONE%0ABEGIN:VEVENT%0AURL:%0ADTSTART;TZID=Asia/Shanghai:20261226T153000%0ADTEND;TZID=Asia/Shanghai:20261226T173000%0ATZID:Asia/Shanghai%0ASUMMARY:%5BMLNLP%202026%5D%20Session%203:大模型智能体%0ADESCRIPTION:MLNLP 2026 第五届机器学习算法与自然语言处理大会“大模型智能体”分论坛将于12月26日（周六）下午15:30—17:30线上举行，邀请来自阿里巴巴等产业界以及四川大学、中国科学技术大学、北京航空航天大学等学术界的四位讲者，围绕基于强化学习的开放域智能体自进化框架与ArenaRL、大模型智能体驱动的工业经验沉淀与复用、个性化智能体助理、自进化代码大模型和智能体等方向展开报告，涵盖智能体强化学习、经验工程、个性化建模与代码自进化等核心技术及开放域规划、工业运维、个人助理和软件开发等应用场景，旨在促进学术界与产业界在智能体领域的交流与合作。%0ALOCATION:%0ABEGIN:VALARM%0ATRIGGER:-PT10M%0AACTION:DISPLAY%0ADESCRIPTION:Reminder%0AEND:VALARM%0ALOCATION:http://www.mlnlp.org/mlnlp2025/%0AEND:VEVENT%0AEND:VCALENDAR",
+	"google": "https://calendar.google.com/calendar/r/eventedit?dates=20261226T153000%2F20261226T173000&text=%5BMLNLP%202026%5D%20Session%203:大模型智能体&details=MLNLP 2026 第五届机器学习算法与自然语言处理大会“大模型智能体”分论坛将于12月26日（周六）下午15:30—17:30线上举行，邀请来自阿里巴巴等产业界以及四川大学、中国科学技术大学、北京航空航天大学等学术界的四位讲者，围绕基于强化学习的开放域智能体自进化框架与ArenaRL、大模型智能体驱动的工业经验沉淀与复用、个性化智能体助理、自进化代码大模型和智能体等方向展开报告，涵盖智能体强化学习、经验工程、个性化建模与代码自进化等核心技术及开放域规划、工业运维、个人助理和软件开发等应用场景，旨在促进学术界与产业界在智能体领域的交流与合作。&ctz=Asia%2FShanghai&location=http://www.mlnlp.org/mlnlp2025/",
+	"outlook": "https://outlook.live.com/owa?rru=addevent&startdt=2026-12-26T15:30:00&enddt=2026-12-26T17:30:00&subject=%5BMLNLP%202026%5D%20Session%203:大模型智能体&body=MLNLP 2026 第五届机器学习算法与自然语言处理大会“大模型智能体”分论坛将于12月26日（周六）下午15:30—17:30线上举行，邀请来自阿里巴巴等产业界以及四川大学、中国科学技术大学、北京航空航天大学等学术界的四位讲者，围绕基于强化学习的开放域智能体自进化框架与ArenaRL、大模型智能体驱动的工业经验沉淀与复用、个性化智能体助理、自进化代码大模型和智能体等方向展开报告，涵盖智能体强化学习、经验工程、个性化建模与代码自进化等核心技术及开放域规划、工业运维、个人助理和软件开发等应用场景，旨在促进学术界与产业界在智能体领域的交流与合作。&allday=false&path=%2Fcalendar%2Fview%2FMonth&location=http://www.mlnlp.org/mlnlp2025/",
+	"session_slido_url": "",
+	"session_list": [
+		{
+			"time": [
+				"15:30",
+				"16:00"
+			],
+			"speaker": {
+				"img": "assets/img/speakers/chenboli.png",
+				"name": "陈博理",
+				"desc": "阿里巴巴 Token Foundry 研究员",
+				"url": ""
+			},
+			"type": "专题报告",
+			"title": "基于强化学习的开放域智能体自进化框架和落地实践",
+			"slides": "",
+			"recoding": "",
+			"desc": "面对出行规划、深度研报等缺乏“唯一标准解”的开放域任务，传统强化学习常因奖励信号失真陷入训练瓶颈。本次报告聚焦开放域智能体自我进化的工程化与算法落地，并深度解析对比式强化学习方法 ArenaRL (ICML2026)。"
+		},
+		{
+			"time": [
+				"16:00",
+				"16:30"
+			],
+			"speaker": {
+				"img": "assets/img/speakers/wangwenjie.png",
+				"name": "王文杰",
+				"desc": "中国科学技术大学教授、博士生导师、国家级青年人才",
+				"url": ""
+			},
+			"type": "专题报告",
+			"title": "迈向个性化智能体助理：前沿与展望",
+			"slides": "",
+			"recoding": "",
+			"desc": "随着大模型在通用智能上的突破，其在理解、生成与决策等方面展现出强大的认知能力。然而，通用大模型在应对个体化需求和场景特定任务时仍面临巨大挑战。如何让大模型“理解个体”，实现对用户、组织乃至行业的深度适配，已成为推动人工智能落地的关键问题。本报告将系统梳理大模型智能体在个人助理方向的核心进展与前沿挑战，具体围绕大模型智能体个性化的关键技术展开，包括：面向个性化数据的大模型高效微调、面向动态用户建模的大模型长期记忆、面向复杂任务的智能体化框架等。最后，展望个性化智能体的广泛应用和未来发展方向。"
+		},
+		{
+			"time": [
+				"16:30",
+				"17:00"
+			],
+			"speaker": {
+				"img": "assets/img/speakers/huangchen.png",
+				"name": "黄晨",
+				"desc": "四川大学计算机学院特聘副研究员",
+				"url": ""
+			},
+			"type": "专题报告",
+			"title": "大模型智能体驱动的工业经验沉淀与复用",
+			"slides": "",
+			"recoding": "",
+			"desc": "专家经验是保障工业生产安全与稳定交付的重要基础，但如何将一线人员在实践中积累的经验系统地沉淀下来，始终是工业领域的一大难题。本报告提出智能体经验工程（Agentic Experience Engineering），探索如何利用大模型智能体自主提炼现场经验，将其转化为可复用的知识能力。报告围绕经验的获取、表征与组织等维度展开，结合电网运维和工业建模等案例，介绍智能体经验工程如何融入实际工作流程，使智能体能够在新任务中复用既有经验，提升任务执行能力，并为一线人员提供决策支持。"
+		},
+		{
+			"time": [
+				"17:00",
+				"17:30"
+			],
+			"speaker": {
+				"img": "assets/img/speakers/yangjian.png",
+				"name": "杨健",
+				"desc": "北京航空航天大学副教授",
+				"url": ""
+			},
+			"type": "专题报告",
+			"title": "自进化代码大模型和智能体",
+			"slides": "",
+			"recoding": "",
+			"desc": "代码大模型正从代码生成工具走向能够自主规划、执行与验证复杂任务的智能体，如何使其在实践中持续学习和自我改进，成为重要的研究方向。讲座围绕自进化代码大模型和智能体，介绍模型与智能体利用执行反馈、测试验证和交互经验提升能力的基本思路，探讨数据自生成、强化学习、经验记忆与策略优化等关键技术，并结合代码生成、缺陷修复和软件开发等场景，分析自进化机制的应用潜力，以及评估可信度、演化稳定性和安全可控性等挑战。"
+		}
+	]
+}

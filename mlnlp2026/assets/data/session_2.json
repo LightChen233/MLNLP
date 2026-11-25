@@ -1,0 +1,97 @@
+{
+	"session_name": "Session 2: 语音大模型 <span style=\"white-space: pre;word-break: break-word;\"> (12月26日 13:00-15:00) </span>",
+	"session_chair": "论坛主席：刘瑞 (内蒙古大学) &nbsp;&nbsp;&nbsp;&nbsp; 刘李 (香港科技大学（广州）)",
+	"session_chairs": [
+		{
+			"name": "刘瑞",
+			"affiliation": "内蒙古大学",
+			"img": "assets/img/liurui.jpg",
+			"title": "教授"
+		},
+		{
+			"name": "刘李",
+			"affiliation": "香港科技大学（广州）",
+			"img": "assets/img/liuli.jpg",
+			"title": "博士生导师"
+		}
+	],
+	"session_desc": "大模型正推动语音交互从“识别—理解—合成”的级联流水线，走向端到端、低时延、可感知情感的全双工对话。本论坛聚焦这一跃迁中的共性难题：高质量语音数据稀缺、训练与部署成本高、共情表达不足、评测标准尚不统一，邀请来自头部科技企业与高校的嘉宾分别探讨语音交互大模型的云上训练与体验优化、大模型驱动的对话语音合成与共情响应、多方言多语种数据建设与评测基准、全双工交互中的打断处理与情感对齐。",
+	"session_time": [
+		"13:00",
+		"15:00"
+	],
+	"apple": "data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0ABEGIN:VTIMEZONE%0ATZID:Asia/Shanghai%0AX-LIC-LOCATION:Asia/Shanghai%0ABEGIN:STANDARD%0ATZOFFSETFROM:+0800%0ATZOFFSETTO:+0800%0ATZNAME:CST%0ADTSTART:19700101T000000%0AEND:STANDARD%0AEND:VTIMEZONE%0ABEGIN:VEVENT%0AURL:%0ADTSTART;TZID=Asia/Shanghai:20261226T130000%0ADTEND;TZID=Asia/Shanghai:20261226T150000%0ATZID:Asia/Shanghai%0ASUMMARY:%5BMLNLP%202026%5D%20Session%202:语音大模型%0ADESCRIPTION:大模型正推动语音交互从“识别—理解—合成”的级联流水线，走向端到端、低时延、可感知情感的全双工对话。本论坛聚焦这一跃迁中的共性难题：高质量语音数据稀缺、训练与部署成本高、共情表达不足、评测标准尚不统一，邀请来自头部科技企业与高校的嘉宾分别探讨语音交互大模型的云上训练与体验优化、大模型驱动的对话语音合成与共情响应、多方言多语种数据建设与评测基准、全双工交互中的打断处理与情感对齐。%0ALOCATION:%0ABEGIN:VALARM%0ATRIGGER:-PT10M%0AACTION:DISPLAY%0ADESCRIPTION:Reminder%0AEND:VALARM%0ALOCATION:http://www.mlnlp.org/mlnlp2025/%0AEND:VEVENT%0AEND:VCALENDAR",
+	"google": "https://calendar.google.com/calendar/r/eventedit?dates=20261226T130000%2F20261226T150000&text=%5BMLNLP%202026%5D%20Session%202:语音大模型&details=大模型正推动语音交互从“识别—理解—合成”的级联流水线，走向端到端、低时延、可感知情感的全双工对话。本论坛聚焦这一跃迁中的共性难题：高质量语音数据稀缺、训练与部署成本高、共情表达不足、评测标准尚不统一，邀请来自头部科技企业与高校的嘉宾分别探讨语音交互大模型的云上训练与体验优化、大模型驱动的对话语音合成与共情响应、多方言多语种数据建设与评测基准、全双工交互中的打断处理与情感对齐。&ctz=Asia%2FShanghai&location=http://www.mlnlp.org/mlnlp2025/",
+	"outlook": "https://outlook.live.com/owa?rru=addevent&startdt=2026-12-26T13:00:00&enddt=2026-12-26T15:00:00&subject=%5BMLNLP%202026%5D%20Session%202:语音大模型&body=大模型正推动语音交互从“识别—理解—合成”的级联流水线，走向端到端、低时延、可感知情感的全双工对话。本论坛聚焦这一跃迁中的共性难题：高质量语音数据稀缺、训练与部署成本高、共情表达不足、评测标准尚不统一，邀请来自头部科技企业与高校的嘉宾分别探讨语音交互大模型的云上训练与体验优化、大模型驱动的对话语音合成与共情响应、多方言多语种数据建设与评测基准、全双工交互中的打断处理与情感对齐。&allday=false&path=%2Fcalendar%2Fview%2FMonth&location=http://www.mlnlp.org/mlnlp2025/",
+	"session_slido_url": "",
+	"session_list": [
+		{
+			"time": [
+				"13:00",
+				"13:30"
+			],
+			"speaker": {
+				"img": "assets/img/speakers/jiangziyue.jpg",
+				"name": "江子越",
+				"desc": "阿里巴巴 Token Foundry 算法研究员",
+				"url": ""
+			},
+			"type": "专题报告",
+			"title": "语音交互大模型后训练体验优化",
+			"slides": "",
+			"recoding": "",
+			"desc": "报告围绕语音交互大模型的后训练与体验优化展开，面向 QwenOmni Talker 模块，构建指令生效判别、副语言识别、语境情绪强度识别等专用模型，补齐语音交互中语境信息感知、非语言信息感知与判别能力，提升语音对话交互自然度。相关工作为端到端语音交互大模型的用户体验迭代提供了一套可落地的后训练与评测优化方案。"
+		},
+		{
+			"time": [
+				"13:30",
+				"14:00"
+			],
+			"speaker": {
+				"img": "assets/img/speakers/huyifan.jpg",
+				"name": "胡一帆",
+				"desc": "内蒙古大学计算机学院研究员",
+				"url": ""
+			},
+			"type": "专题报告",
+			"title": "大语言模型驱动的对话语音合成共情建模方法研究",
+			"slides": "",
+			"recoding": "",
+			"desc": "真实对话中的语音表达随上下文变化。同一句话，在安慰、建议或回应质疑时，语气、停顿和表情都可能不同。本报告围绕“上下文建模—共情推理—视听协同”介绍三项研究：构建大规模自然对话语料，将历史文本和语音统一为离散词元，利用大语言模型生成符合语境的语音；以自然语言共情描述连接情感推断、语义规划与声学渲染，使表达依据可观察、可控制；引入面部表情词元与视听对齐机制，联合生成语音和面部动画。实验表明，相关方法改善了多轮上下文利用、情感表达控制和视听响应的一致性。"
+		},
+		{
+			"time": [
+				"14:00",
+				"14:30"
+			],
+			"speaker": {
+				"img": "assets/img/speakers/lijie.png",
+				"name": "李杰",
+				"desc": "中电信人工智能科技（北京）有限公司高级总监",
+				"url": ""
+			},
+			"type": "专题报告",
+			"title": "从数据到服务：星辰语音大模型面向真实语音场景的研发与落地实践",
+			"slides": "",
+			"recoding": "",
+			"desc": "真实语音远比标准任务复杂：口语冗余、方言口音、副语言事件、噪声混响与远场输入，都会让实验室指标失真。本报告按“数据—模型—评测—服务”四段，介绍星辰语音大模型（Xing-Audio）的技术体系：管线支撑百万小时级加工与质量筛选，发布中英文与十类方言大区资源；以 TELEVAL、GSR-Bench 等基准，把评价从字面准确率推进到交互适当性与生成可靠性；并在多方言识别、副语言检测、生成式语音修复与目标说话人提取、TTS 拟人度评价等方向开放专用模型；相关能力经流式与非流式ASR、可控TTS接口进入业务现场。报告亦讨论方言泛化、副语言覆盖与生成幻觉等边界，与产学研同行共商下一步。"
+		},
+		{
+			"time": [
+				"14:30",
+				"15:00"
+			],
+			"speaker": {
+				"img": "assets/img/speakers/liyunxin.png",
+				"name": "李云鑫",
+				"desc": "哈尔滨工业大学（深圳）计算机科学与技术学院副教授、博士生导师",
+				"url": ""
+			},
+			"type": "专题报告",
+			"title": "全模态全双工语音交互大模型",
+			"slides": "",
+			"recoding": "",
+			"desc": "本报告聚焦全模态全双工语音交互大模型，梳理团队在全模态基座构建与全双工交互机制两条主线的研究进展。在基座模型方向，针对视觉、语言表征异构与跨模态对齐难题，率先提出视觉增强大语言模型范式，研发语言智能原生的 Uni-MoE 系列全模态大模型；模型能力从统一多模态理解、语音及音乐生成，迭代升级为理解与生成一体化的全模态交互系统。在全双工交互方向，针对传统级联方案时延较高、端到端声学重建与语义推理存在梯度冲突等瓶颈，提出层级化语义 - 声学解耦范式，通过参数解耦与帧级语义对齐，实现原生端到端全双工对话，打断响应能力提升 28.5%，相关成果获评 ACL 2026 杰出论文。报告最后展望面向实体智能的 “边听、边看、边说、边思考、边行动” 的下一代全模态全双工大模型发展方向。"
+		}
+	]
+}
